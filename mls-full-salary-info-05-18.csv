@@ -1,0 +1,626 @@
+"first_name","last_name","team_id","team","player","shirt_num","pos","club","base_salary","total_compensation","reserve","senior","supplemental","disabled_list","on_loan","season_end_injury","DP","INTL","GA","HG","YDP"
+"Aaron","Herrera",18,"Real Salt Lake","Herrera, Aaron","22","D","Real Salt Lake",67500,67500,1,0,0,0,0,0,0,0,0,1,0
+"Aaron","Kovar",9,"Lafc","Kovar, Aaron","11","M","LAFC",69457.5,69657.5,1,0,0,0,0,0,0,0,0,1,0
+"Aaron","Long",14,"New York Red-Bulls","Long, Aaron","33","D","New York Red Bulls",73125,73125,0,1,0,0,0,0,0,0,0,0,0
+"Aaron","Maund",23,"Vancouver Whitecaps","Maund, Aaron","22","D","Vancouver Whitecaps",180000,189437.5,0,1,0,0,0,0,0,0,0,0,0
+"Abu","Danladi",10,"Minnesota United","Danladi, Abu","9","F","Minnesota United",135000,186000,0,0,1,0,0,0,0,0,1,0,0
+"Adam","Grinwis",15,"Orlando City","Grinwis, Adam","99","GK","Orlando City SC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Adam","Henley",18,"Real Salt Lake","Henley, Adam","3","D","Real Salt Lake",114999.96,122833.29,0,1,0,0,0,0,0,0,0,0,0
+"Adam","Jahn",4,"Columbus Crew Sc","Jahn, Adam","14","F","Columbus Crew",97500,97500,0,1,0,0,0,0,0,0,0,0,0
+"Adam","Najem",16,"Philadelphia Union","Najem, Adam","24","M","Philadelphia Union",71500.04,71500.04,0,0,1,0,0,0,0,0,0,1,0
+"Adolfo","Machado",7,"Houston Dynamo","Machado, Adolfo","3","D","Houston Dynamo",220008,236508,0,1,0,0,0,0,0,1,0,0,0
+"Adrian","Zendejas",21,"Sporting Kansas City","Zendejas, Adrian","1","GK","Sporting Kansas City",55650,55650,1,0,0,0,0,0,0,0,0,0,0
+"AJ","DeLaGarza",7,"Houston Dynamo","DeLaGarza, AJ","20","D","Houston Dynamo",200000.04,207500.04,0,1,0,1,0,0,0,0,0,0,0
+"Albert","Rusnak",18,"Real Salt Lake","Rusnak, Albert","11","M","Real Salt Lake",850008,907820.5,0,1,0,0,0,0,1,1,0,0,0
+"Alberth","Elis",7,"Houston Dynamo","Elis, Alberth","17","F","Houston Dynamo",650340,650340,0,1,0,0,0,0,0,1,0,0,1
+"Alec","Kann",1,"Atlanta United","Kann, Alec","25","GK","Atlanta United",94008,94008,0,1,0,0,0,0,0,0,0,0,0
+"Alejandro","Bedoya",16,"Philadelphia Union","Bedoya, Alejandro","11","M","Philadelphia Union",1200000,1266250,0,1,0,0,0,0,1,0,0,0,0
+"Alejandro","Fuenmayor",7,"Houston Dynamo","Fuenmayor, Alejandro","2","D","Houston Dynamo",85008,112508,0,1,0,0,0,0,0,1,0,0,0
+"Alejandro","Silva",11,"Montreal Impact","Silva, Alejandro","9","F","Montreal Impact",800040,800040,0,1,0,0,0,0,0,1,0,0,0
+"Aleksandar","Katai",2,"Chicago Fire","Katai, Aleksandar","10","M","Chicago Fire",1140000,1276333.33,0,1,0,0,0,0,0,1,0,0,0
+"Alex","Bono",22,"Toronto Fc","Bono, Alex","25","GK","Toronto FC",82000,102200,0,1,0,0,0,0,0,0,0,0,0
+"Alex","Crognale",4,"Columbus Crew Sc","Crognale, Alex","21","D","Columbus Crew",95004,95004,1,0,0,0,0,0,0,0,0,1,0
+"Alex","Horwath",18,"Real Salt Lake","Horwath, Alex","1","GK","Real Salt Lake",67500,73362.5,0,0,1,0,0,0,0,0,0,0,0
+"Alex","Kapp",10,"Minnesota United","Kapp, Alex","24","D","Minnesota United",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Alex","Muyl",14,"New York Red-Bulls","Muyl, Alex","19","M","New York Red Bulls",110000,114000,0,0,1,0,0,0,0,0,0,1,0
+"Alex","Roldan",20,"Seattle Sounders","Roldan, Alex","16","M","Seattle Sounders FC",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Alexander","Callens",13,"New York City-Fc","Callens, Alexander","6","D","New York City FC",500000.04,564000.04,0,1,0,0,0,0,0,1,0,0,0
+"Alexander","Ring",13,"New York City-Fc","Ring, Alexander","8","M","New York City FC",370000.08,411666.75,0,1,0,0,0,0,0,0,0,0,0
+"Alfredo","Ortuno",18,"Real Salt Lake","Ortuno, Alfredo","16","F","Real Salt Lake",990000,1162500,0,1,0,0,0,0,0,1,0,0,0
+"Alphonso","Davies",23,"Vancouver Whitecaps","Davies, Alphonso","67","M","Vancouver Whitecaps",72500,72500,1,0,0,0,0,0,0,0,0,1,0
+"Alvas","Powell",17,"Portland Timbers","Powell, Alvas","2","D","Portland Timbers",225000,241625,0,1,0,0,0,0,0,0,0,0,0
+"Aly","Ghazal",23,"Vancouver Whitecaps","Ghazal, Aly","66","M","Vancouver Whitecaps",575000.04,700566.71,0,1,0,0,0,0,0,1,0,0,0
+"Amer","Didic",21,"Sporting Kansas City","Didic, Amer","2","D","Sporting Kansas City",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Amro","Tarek",15,"Orlando City","Tarek, Amro","3","D","Orlando City SC",80000.04,88333.37,0,1,0,0,0,0,0,0,0,0,0
+"Andre","Blake",16,"Philadelphia Union","Blake, Andre","18","GK","Philadelphia Union",450000,5e+05,0,1,0,0,0,0,0,0,0,0,0
+"Andre","Rawls",13,"New York City-Fc","Rawls, Andre","24","GK","New York City FC",68915.07,68915.07,0,0,1,0,0,0,0,0,0,0,0
+"Andres","Flores",17,"Portland Timbers","Flores, Andres","14","M","Portland Timbers",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Andrew","Carleton",1,"Atlanta United","Carleton, Andrew","30","M","Atlanta United",75000,87400,1,0,0,0,0,0,0,0,0,1,0
+"Andrew","Dykstra",3,"Colorado Rapids","Dykstra, Andrew","50","GK","Colorado Rapids",100008,107658.51,0,0,1,0,0,0,0,0,0,0,0
+"Andrew","Farrell",12,"New England Revolution","Farrell, Andrew","2","D","New England Revolution",182600,267600,0,1,0,0,0,0,0,0,0,0,0
+"Andrew","Tarbell",19,"San Jose Earthquakes","Tarbell, Andrew","28","GK","San Jose Earthquakes",88000,102000,0,1,0,0,0,0,0,0,0,0,0
+"Andrew","Wenger",7,"Houston Dynamo","Wenger, Andrew","11","M","Houston Dynamo",230000,230000,0,1,0,0,0,0,0,0,0,0,0
+"Andrew","Wheeler-Omiunu",1,"Atlanta United","Wheeler-Omiunu, Andrew","28","M","Atlanta United",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Andy","Polo",17,"Portland Timbers","Polo, Andy","11","F","Portland Timbers",150000,150000,0,1,0,0,0,0,0,1,0,0,0
+"Anibal","Godoy",19,"San Jose Earthquakes","Godoy, Anibal","20","M","San Jose Earthquakes",425000.04,473125.04,0,1,0,0,0,0,0,0,0,0,0
+"Anthony","Blondell",23,"Vancouver Whitecaps","Blondell, Anthony","9","F","Vancouver Whitecaps",249999.96,295203.21,0,1,0,0,0,0,0,1,0,0,0
+"Anthony","Fontana",16,"Philadelphia Union","Fontana, Anthony","21","M","Philadelphia Union",65004,73421.6,1,0,0,0,0,0,0,0,0,1,0
+"Anthony","Jackson-Hamel",11,"Montreal Impact","Jackson-Hamel, Anthony","11","F","Montreal Impact",140000.04,155000.04,0,1,0,0,0,0,0,0,0,1,0
+"Anton","Nedyalkov",6,"Fc Dallas","Nedyalkov, Anton","6","D","FC Dallas",180000,192500,0,1,0,0,0,0,0,1,0,0,0
+"Anton","Tinnerholm",13,"New York City-Fc","Tinnerholm, Anton","3","D","New York City FC",350000.04,434925.04,0,1,0,0,0,0,0,1,0,0,0
+"Ariel","Lassiter",8,"La Galaxy","Lassiter, Ariel","15","F","LA Galaxy",67500,67500,1,0,0,0,0,0,0,0,0,1,0
+"Arturo","Alvarez",7,"Houston Dynamo","Alvarez, Arturo","12","M","Houston Dynamo",150000,157500,0,1,0,0,0,0,0,0,0,0,0
+"Ashley","Cole",8,"La Galaxy","Cole, Ashley","3","D","LA Galaxy",450000,722499.98,0,1,0,0,0,0,0,1,0,0,0
+"Ashtone","Morgan",22,"Toronto Fc","Morgan, Ashtone","5","D","Toronto FC",120000,121500,0,0,1,0,0,0,0,0,0,1,0
+"Aurelien","Collin",14,"New York Red-Bulls","Collin, Aurelien","78","D","New York Red Bulls",450000,450000,0,1,0,0,1,0,0,0,0,0,0
+"Auston","Trusty",16,"Philadelphia Union","Trusty, Auston","26","D","Philadelphia Union",80000,109100,1,0,0,0,0,0,0,0,0,1,0
+"Axel","Sjoberg",3,"Colorado Rapids","Sjoberg, Axel","44","D","Colorado Rapids",189996,194996,0,1,0,0,0,0,0,0,0,0,0
+"Baggio","Husidic",8,"La Galaxy","Husidic, Baggio","6","M","LA Galaxy",174999.96,174999.96,0,1,0,0,0,0,0,0,0,0,0
+"Bastian","Schweinsteiger",2,"Chicago Fire","Schweinsteiger, Bastian","31","M","Chicago Fire",6100000.08,6100000.08,0,1,0,0,0,0,1,1,0,0,0
+"Ben","Mines",14,"New York Red-Bulls","Mines, Ben","17","M","New York Red Bulls",54504,60518,1,0,0,0,0,0,0,0,0,1,0
+"Ben","Sweat",13,"New York City-Fc","Sweat, Ben","2","D","New York City FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Benny","Feilhaber",9,"Lafc","Feilhaber, Benny","33","M","LAFC",625000,625000,0,1,0,0,0,0,0,0,0,0,0
+"Bernie","Ibini",23,"Vancouver Whitecaps","Ibini, Bernie","7","M/F","Vancouver Whitecaps",265008,304008,0,1,0,0,0,0,0,1,0,0,0
+"Bill","Tuiloma",17,"Portland Timbers","Tuiloma, Bill","25","D/M","Portland Timbers",67500,75000,0,0,1,0,0,0,0,1,0,0,0
+"Borek","Dockal",16,"Philadelphia Union","Dockal, Borek","10","M","Philadelphia Union",1714285.68,1714285.68,0,1,0,0,0,0,1,1,0,0,0
+"Brad","Evans",21,"Sporting Kansas City","Evans, Brad","4","D/M","Sporting Kansas City",200000.04,200000.04,0,1,0,0,0,0,0,0,0,0,0
+"Brad","Guzan",1,"Atlanta United","Guzan, Brad","1","GK","Atlanta United",640008,700008,0,1,0,0,0,0,0,0,0,0,0
+"Brad","Knighton",12,"New England Revolution","Knighton, Brad","18","GK","New England Revolution",105956,105956,0,1,0,0,0,0,0,0,0,0,0
+"Brad","Stuver",13,"New York City-Fc","Stuver, Brad","41","GK","New York City FC",84999.96,84999.96,0,1,0,0,0,0,0,0,0,0,0
+"Bradford","Jamieson",8,"La Galaxy","Jamieson, Bradford","38","F","LA Galaxy",72765,72765,1,0,0,0,0,0,0,0,0,1,0
+"Bradley","Wright-Phillips",14,"New York Red-Bulls","Wright-Phillips, Bradley","99","F","New York Red Bulls",1500000,1635000,0,1,0,0,0,0,1,0,0,0,0
+"Brandon","Bye",12,"New England Revolution","Bye, Brandon","15","M/D","New England Revolution",54500.04,57760.82,1,0,0,0,0,0,0,0,0,0,0
+"Brandon","Servania",6,"Fc Dallas","Servania, Brandon","18","M","FC Dallas",135000,186000,1,0,0,0,0,0,0,0,0,1,0
+"Brandon","Vazquez",1,"Atlanta United","Vazquez, Brandon","19","F","Atlanta United",125004,145004,0,1,0,0,0,0,0,0,0,0,0
+"Brandon","Vincent",2,"Chicago Fire","Vincent, Brandon","3","D","Chicago Fire",122375,144250,0,1,0,0,0,0,0,0,0,0,0
+"Brandt","Bronico",2,"Chicago Fire","Bronico, Brandt","13","M","Chicago Fire",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Brek","Shea",23,"Vancouver Whitecaps","Shea, Brek","20","M/F","Vancouver Whitecaps",7e+05,745000,0,1,0,0,0,0,1,0,0,0,0
+"Brent","Kallman",10,"Minnesota United","Kallman, Brent","14","D","Minnesota United",82500,85791.67,0,1,0,0,0,0,0,0,0,0,0
+"Brett","Levis",23,"Vancouver Whitecaps","Levis, Brett","46","D/M","Vancouver Whitecaps",68250,70750,0,0,1,0,0,0,0,0,0,0,0
+"Brian","Rowe",23,"Vancouver Whitecaps","Rowe, Brian","12","GK","Vancouver Whitecaps",135000,135000,0,1,0,0,0,0,0,0,0,0,0
+"Brian","Sylvestre",8,"La Galaxy","Sylvestre, Brian","12","GK","LA Galaxy",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Brian","Wright",12,"New England Revolution","Wright, Brian","7","F","New England Revolution",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Brooks","Lennon",18,"Real Salt Lake","Lennon, Brooks","12","F","Real Salt Lake",225000,237583.33,1,0,0,0,0,0,0,0,0,1,0
+"Bruno","Miranda",5,"Dc United","Miranda, Bruno","32","F","DC United",67500,71976.09,0,0,1,0,0,0,0,1,0,0,0
+"Bryan","Meredith",20,"Seattle Sounders","Meredith, Bryan","35","GK","Seattle Sounders FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Bryan","Reynolds",6,"Fc Dallas","Reynolds, Bryan","29","F","FC Dallas",54500,56500,1,0,0,0,0,0,0,0,0,1,0
+"Caleb","Calvert",3,"Colorado Rapids","Calvert, Caleb","29","F","Colorado Rapids",105000,105000,1,0,0,0,0,0,0,0,0,1,0
+"Calle","Brown",20,"Seattle Sounders","Brown, Calle","25","GK","Seattle Sounders FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Calum","Mallace",9,"Lafc","Mallace, Calum","16","M","LAFC",80000.04,80000.04,0,1,0,0,0,0,0,0,0,0,0
+"Carlos","Gruezo",6,"Fc Dallas","Gruezo, Carlos","7","M","FC Dallas",595000.08,730750.08,0,1,0,0,0,0,0,1,0,0,1
+"Carlos","Rivas",14,"New York Red-Bulls","Rivas, Carlos","11","F","New York Red Bulls",444996,444996,0,1,0,0,0,0,0,0,0,0,0
+"Carlos","Vela",9,"Lafc","Vela, Carlos","10","F","LAFC",4500000,6292500,0,1,0,0,0,0,1,1,0,0,0
+"Carter","Manley",10,"Minnesota United","Manley, Carter","2","D","Minnesota United",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Cedric","Hountondji",13,"New York City-Fc","Hountondji, Cedric","5","D","New York City FC",220000.08,258333.41,0,1,0,0,0,0,0,1,0,0,0
+"Chad","Marshall",20,"Seattle Sounders","Marshall, Chad","14","D","Seattle Sounders FC",325000,341250,0,1,0,0,0,0,0,0,0,0,0
+"Charlie","Lyon",9,"Lafc","Lyon, Charlie","24","GK","LAFC",67500,67500,1,0,0,0,0,0,0,0,0,0,0
+"Chris","Durkin",5,"Dc United","Durkin, Chris","21","D/M","DC United",80000,89166.67,1,0,0,0,0,0,0,0,0,1,0
+"Chris","Duvall",11,"Montreal Impact","Duvall, Chris","18","D","Montreal Impact",150000,150000,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Goslin",1,"Atlanta United","Goslin, Chris","20","M","Atlanta United",80000,84000,1,0,0,0,0,0,0,0,0,1,0
+"Chris","Mavinga",22,"Toronto Fc","Mavinga, Chris","23","D","Toronto FC",500000.04,563333.37,0,1,0,0,0,0,0,1,0,0,0
+"Chris","McCann",1,"Atlanta United","McCann, Chris","16","M","Atlanta United",560000,588000,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Mueller",15,"Orlando City","Mueller, Chris","17","F","Orlando City SC",84999.96,98749.96,1,0,0,0,0,0,0,0,0,0,0
+"Chris","Odoi-Atsem",5,"Dc United","Odoi-Atsem, Chris","3","D","DC United",54500.04,59500.04,1,0,0,0,0,0,0,0,0,0,0
+"Chris","Pontius",8,"La Galaxy","Pontius, Chris","19","F","LA Galaxy",174999.96,174999.96,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Schuler",15,"Orlando City","Schuler, Chris","28","D","Orlando City SC",75000,81250,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Seitz",7,"Houston Dynamo","Seitz, Chris","18","GK","Houston Dynamo",155004,155004,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Tierney",12,"New England Revolution","Tierney, Chris","8","D/M","New England Revolution",157500,165833.33,0,1,0,0,0,0,0,0,0,0,0
+"Chris","Wehan",19,"San Jose Earthquakes","Wehan, Chris","16","M","San Jose Earthquakes",54492,57992,1,0,0,0,0,0,0,0,0,0,0
+"Chris","Wondolowski",19,"San Jose Earthquakes","Wondolowski, Chris","8","F","San Jose Earthquakes",8e+05,8e+05,0,1,0,0,0,0,1,0,0,0,0
+"Christian","Dean",2,"Chicago Fire","Dean, Christian","26","D","Chicago Fire",90000,93125,0,1,0,0,0,0,0,0,0,0,0
+"Christian","Ramirez",10,"Minnesota United","Ramirez, Christian","21","F","Minnesota United",575000.04,641250.04,0,1,0,0,0,0,0,0,0,0,0
+"CJ","Sapong",16,"Philadelphia Union","Sapong, CJ","17","F","Philadelphia Union",525000,525000,0,1,0,0,0,0,0,0,0,0,0
+"Claude","Dielna",12,"New England Revolution","Dielna, Claude","4","D","New England Revolution",780000,909861,0,1,0,0,0,0,1,1,0,0,0
+"Clement","Diop",11,"Montreal Impact","Diop, Clement","23","GK","Montreal Impact",90000,97290,0,1,0,0,0,0,0,0,0,0,0
+"Clint","Dempsey",20,"Seattle Sounders","Dempsey, Clint","2","F","Seattle Sounders FC",1100000.04,1650000.04,0,1,0,0,0,0,1,0,0,0,0
+"Clint","Irwin",22,"Toronto Fc","Irwin, Clint","1","GK","Toronto FC",210000,221312.7,0,1,0,0,0,0,0,0,0,0,0
+"Cody","Cropper",12,"New England Revolution","Cropper, Cody","1","GK","New England Revolution",73828.13,73828.13,0,1,0,0,0,0,0,0,0,0,0
+"Collen","Warner",10,"Minnesota United","Warner, Collen","26","M","Minnesota United",251004,251004,0,1,0,0,0,0,0,0,0,0,0
+"Collin","Martin",10,"Minnesota United","Martin, Collin","17","M","Minnesota United",95004,95004,1,0,0,0,0,0,0,0,0,1,0
+"Colton","Storm",21,"Sporting Kansas City","Storm, Colton","23","D","Sporting Kansas City",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Connor","Lade",14,"New York Red-Bulls","Lade, Connor","5","D","New York Red Bulls",114000,120749.85,0,1,0,0,0,0,0,0,0,1,0
+"Connor","Maloney",4,"Columbus Crew Sc","Maloney, Connor","31","D","Columbus Crew",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Connor","Sparrow",18,"Real Salt Lake","Sparrow, Connor","24","GK","Real Salt Lake",54504,54504,1,0,0,0,0,0,0,0,0,0,0
+"Corey","Baird",18,"Real Salt Lake","Baird, Corey","27","F","Real Salt Lake",54504,54504,1,0,0,0,0,0,0,0,0,1,0
+"Cory","Burke",16,"Philadelphia Union","Burke, Cory","19","F","Philadelphia Union",67500,71223.75,0,1,0,0,0,0,0,1,0,0,0
+"Cristhian","Paredes",17,"Portland Timbers","Paredes, Cristhian","22","M","Portland Timbers",252000,283500,0,1,0,0,0,0,0,1,0,0,0
+"Cristian","Casseres",14,"New York Red-Bulls","Casseres, Cristian","23","M","New York Red Bulls",69999.96,108749.96,0,1,0,0,0,0,0,1,0,0,0
+"Cristian","Colman",6,"Fc Dallas","Colman, Cristian","9","F","FC Dallas",500000.04,585000.04,0,1,0,0,0,0,0,1,0,0,1
+"Cristian","Higuita",15,"Orlando City","Higuita, Cristian","7","M","Orlando City SC",444996,581662.67,0,1,0,0,0,0,0,0,0,0,0
+"Cristian","Lobato",21,"Sporting Kansas City","Lobato, Cristian","19","M","Sporting Kansas City",240000,240000,0,1,0,0,0,0,0,1,0,0,0
+"Cristian","Martinez",4,"Columbus Crew Sc","Martinez, Cristian","18","M","Columbus Crew",68915.07,73415.07,0,1,0,0,0,0,0,1,0,0,0
+"Cristian","Penilla",12,"New England Revolution","Penilla, Cristian","70","F/M","New England Revolution",500000.04,550000.04,0,1,0,0,0,0,0,1,0,0,0
+"Cristian","Roldan",20,"Seattle Sounders","Roldan, Cristian","7","M","Seattle Sounders FC",154000,191000,0,1,0,0,0,0,0,0,0,0,0
+"Cristian","Techera",23,"Vancouver Whitecaps","Techera, Cristian","13","M","Vancouver Whitecaps",387000,412000,0,1,0,0,0,0,0,1,0,0,0
+"Dairon","Asprilla",17,"Portland Timbers","Asprilla, Dairon","27","M/F","Portland Timbers",180000,193750,0,1,0,0,0,0,0,0,0,0,0
+"Damir","Kreilach",18,"Real Salt Lake","Kreilach, Damir","6","M","Real Salt Lake",9e+05,1013333.33,0,1,0,0,0,0,0,1,0,0,0
+"Daniel","Johnson",2,"Chicago Fire","Johnson, Daniel","20","M","Chicago Fire",68254.2,68254.2,0,1,0,0,0,0,0,0,0,0,0
+"Daniel","Lovitz",11,"Montreal Impact","Lovitz, Daniel","3","D","Montreal Impact",86625,86625,0,1,0,0,0,0,0,0,0,0,0
+"Daniel","Royer",14,"New York Red-Bulls","Royer, Daniel","77","M","New York Red Bulls",6e+05,668750,0,1,0,0,0,0,0,1,0,0,0
+"Daniel","Salloi",21,"Sporting Kansas City","Salloi, Daniel","20","F","Sporting Kansas City",67500,81625,0,0,1,0,0,0,0,1,0,1,0
+"Daniel","Steres",8,"La Galaxy","Steres, Daniel","5","D","LA Galaxy",125004,132066.6,0,1,0,0,0,0,0,0,0,0,0
+"Danilo","Acosta",18,"Real Salt Lake","Acosta, Danilo","25","D","Real Salt Lake",1e+05,1e+05,1,0,0,0,0,0,0,0,0,1,0
+"Danny","Hoesen",19,"San Jose Earthquakes","Hoesen, Danny","9","F","San Jose Earthquakes",465000,518000,0,1,0,0,0,0,0,1,0,0,0
+"Darlington","Nagbe",1,"Atlanta United","Nagbe, Darlington","6","M","Atlanta United",605000,620000,0,1,0,0,0,0,0,0,0,0,0
+"Darren","Mattocks",5,"Dc United","Mattocks, Darren","11","F","DC United",4e+05,416666.67,0,1,0,0,0,0,0,0,0,0,0
+"Darwin","Ceren",7,"Houston Dynamo","Ceren, Darwin","24","M","Houston Dynamo",225000,274375,0,1,0,0,0,0,0,0,0,0,0
+"Darwin","Quintero",10,"Minnesota United","Quintero, Darwin","25","F","Minnesota United",1650000,1650000,0,1,0,0,0,0,1,1,0,0,0
+"Dave","Romney",8,"La Galaxy","Romney, Dave","4","D","LA Galaxy",74418.75,74418.75,0,1,0,0,0,0,0,0,0,0,0
+"David","Accam",16,"Philadelphia Union","Accam, David","7","M","Philadelphia Union",1250000.04,1250000.04,0,1,0,0,0,0,0,0,0,0,0
+"David","Bingham",8,"La Galaxy","Bingham, David","1","GK","LA Galaxy",275000.04,275000.04,0,1,0,0,0,0,0,0,0,0,0
+"David","Choiniere",11,"Montreal Impact","Choiniere, David","17","M","Montreal Impact",67500,67500,0,0,1,0,0,0,0,0,0,1,0
+"David","Guzman",17,"Portland Timbers","Guzman, David","20","M","Portland Timbers",219999.96,239999.96,0,1,0,0,0,0,0,1,0,0,0
+"David","Horst",18,"Real Salt Lake","Horst, David","4","D","Real Salt Lake",125004,131629,0,1,0,0,0,0,0,0,0,0,0
+"David","Ousted",5,"Dc United","Ousted, David","1","GK","DC United",350000.04,369166.71,0,1,0,0,0,0,0,1,0,0,0
+"David","Villa",13,"New York City-Fc","Villa, David","7","F","New York City FC",5610000,5610000,0,1,0,0,0,0,1,1,0,0,0
+"Dax","McCarty",2,"Chicago Fire","McCarty, Dax","6","M","Chicago Fire",700000.08,712500.08,0,1,0,0,0,0,0,0,0,0,0
+"Dejan","Jakovic",9,"Lafc","Jakovic, Dejan","5","D","LAFC",150000,150000,0,1,0,0,0,0,0,0,0,0,0
+"Deklan","Wynne",3,"Colorado Rapids","Wynne, Deklan","27","D","Colorado Rapids",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Demar","Phillips",18,"Real Salt Lake","Phillips, Demar","17","D","Real Salt Lake",120000,126250,0,1,0,0,0,0,0,0,0,0,0
+"Derrick","Etienne",14,"New York Red-Bulls","Etienne, Derrick","7","F/M","New York Red Bulls",68500,73500,1,0,0,0,0,0,0,0,0,1,0
+"Derrick","Jones",16,"Philadelphia Union","Jones, Derrick","8","M","Philadelphia Union",70000,75900,0,0,1,0,0,0,0,0,0,1,0
+"Diego","Campos",2,"Chicago Fire","Campos, Diego","17","F","Chicago Fire",54500.04,54500.04,1,0,0,0,0,0,0,1,0,0,0
+"Diego","Chara",17,"Portland Timbers","Chara, Diego","21","M","Portland Timbers",550000,572000,0,1,0,0,0,0,0,0,0,0,0
+"Diego","Fagundez",12,"New England Revolution","Fagundez, Diego","14","M","New England Revolution",170000,190000,0,1,0,0,0,0,0,0,0,1,0
+"Diego","Rossi",9,"Lafc","Rossi, Diego","9","F","LAFC",1000000.08,1052000.08,0,1,0,0,0,0,1,1,0,0,0
+"Diego","Valeri",17,"Portland Timbers","Valeri, Diego","8","M","Portland Timbers",2320000,2380000,0,1,0,0,0,0,1,0,0,0,0
+"Dillon","Powers",15,"Orlando City","Powers, Dillon","5","M","Orlando City SC",180000,180000,0,1,0,0,0,0,0,0,0,0,0
+"Dillon","Serna",3,"Colorado Rapids","Serna, Dillon","17","M","Colorado Rapids",95000.04,95000.04,0,1,0,0,0,0,0,0,0,1,0
+"Djordje","Mihailovic",2,"Chicago Fire","Mihailovic, Djordje","14","M","Chicago Fire",96000.04,96000.04,1,0,0,0,0,0,0,0,0,1,0
+"Dom","Dwyer",15,"Orlando City","Dwyer, Dom","14","F","Orlando City SC",1200000,1383333.33,0,1,0,0,0,0,1,0,0,0,0
+"Dominique","Badji",3,"Colorado Rapids","Badji, Dominique","14","F","Colorado Rapids",162500.04,168750.04,0,1,0,0,0,0,0,1,0,0,0
+"Doneil","Henry",23,"Vancouver Whitecaps","Henry, Doneil","2","D","Vancouver Whitecaps",140004,154237.71,0,1,0,0,0,0,0,0,0,0,0
+"Donny","Toia",15,"Orlando City","Toia, Donny","25","D","Orlando City SC",125004,125004,0,1,0,0,0,0,0,0,0,0,0
+"Drew","Conner",2,"Chicago Fire","Conner, Drew","18","M","Chicago Fire",68907.3,68907.3,1,0,0,0,0,0,0,0,0,1,0
+"Drew","Moor",22,"Toronto Fc","Moor, Drew","3","D","Toronto FC",350004,350004,0,1,0,0,0,0,0,0,0,0,0
+"Dylan","Remick",7,"Houston Dynamo","Remick, Dylan","15","D","Houston Dynamo",105000,106666.67,0,1,0,0,0,0,0,0,0,0,0
+"Ebenezer","Ofori",13,"New York City-Fc","Ofori, Ebenezer","12","M","New York City FC",324999.96,381249.96,0,1,0,0,0,0,0,1,0,0,0
+"Edgar","Castillo",3,"Colorado Rapids","Castillo, Edgar","2","D","Colorado Rapids",99996,129996,0,1,0,0,0,0,0,0,0,0,0
+"Eduard","Atuesta",9,"Lafc","Atuesta, Eduard","20","M","LAFC",450000,468000,0,1,0,0,0,0,0,1,0,0,0
+"Eduardo","Sosa",4,"Columbus Crew Sc","Sosa, Eduardo","20","M","Columbus Crew",99999.96,120199.96,0,1,0,0,0,0,0,1,0,0,0
+"Edward","Opoku",4,"Columbus Crew Sc","Opoku, Edward","27","F","Columbus Crew",75000,96000,0,0,1,0,0,0,0,1,1,0,0
+"Efrain","Juarez",23,"Vancouver Whitecaps","Juarez, Efrain","6","M","Vancouver Whitecaps",525000,619833.33,0,1,0,0,0,0,0,1,0,0,0
+"Elliot","Collier",2,"Chicago Fire","Collier, Elliot","28","F","Chicago Fire",54500.04,54500.04,1,0,0,0,0,0,0,1,0,0,0
+"Ema","Twumasi",6,"Fc Dallas","Twumasi, Ema","22","F","FC Dallas",135000,180900,0,0,1,0,1,0,0,1,0,0,0
+"Emiliano","Amor",21,"Sporting Kansas City","Amor, Emiliano","22","D","Sporting Kansas City",225000,274375,0,1,0,0,0,0,0,1,0,0,0
+"Emmanuel","Boateng",8,"La Galaxy","Boateng, Emmanuel","24","M","LA Galaxy",130000,130000,0,1,0,0,0,0,0,0,0,0,0
+"Emrah","Klimenta",8,"La Galaxy","Klimenta, Emrah","22","D","LA Galaxy",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Enzo","Martinez",3,"Colorado Rapids","Martinez, Enzo","90","M","Colorado Rapids",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Eric","Alexander",7,"Houston Dynamo","Alexander, Eric","6","M","Houston Dynamo",260004,260004,0,1,0,0,0,0,0,0,0,0,0
+"Eric","Ayuk",16,"Philadelphia Union","Ayuk, Eric","30","M","Philadelphia Union",68906.25,68906.25,0,1,0,0,0,0,0,1,0,0,0
+"Eric","Bird",7,"Houston Dynamo","Bird, Eric","25","M","Houston Dynamo",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Eric","Calvillo",19,"San Jose Earthquakes","Calvillo, Eric","26","M","San Jose Earthquakes",99999.96,114999.96,0,1,0,0,0,0,0,0,0,0,0
+"Erik","Hurtado",23,"Vancouver Whitecaps","Hurtado, Erik","19","F/M","Vancouver Whitecaps",150000,156250,0,1,0,0,0,0,0,0,0,0,0
+"Eriq","Zavaleta",22,"Toronto Fc","Zavaleta, Eriq","15","D","Toronto FC",225000,263558.45,0,1,0,0,0,0,0,0,0,0,0
+"Eryk","Williamson",17,"Portland Timbers","Williamson, Eryk","30","M","Portland Timbers",110000.04,126500.04,1,0,0,0,0,0,0,0,0,1,0
+"Ethan","Finlay",10,"Minnesota United","Finlay, Ethan","13","M","Minnesota United",375000,375000,0,1,0,0,0,1,0,0,0,0,0
+"Evan","Bush",11,"Montreal Impact","Bush, Evan","1","GK","Montreal Impact",157925,157925,0,1,0,0,0,0,0,0,0,0,0
+"Evan","Louro",14,"New York Red-Bulls","Louro, Evan","24","GK","New York Red Bulls",55654.2,55654.2,1,0,0,0,0,0,0,0,0,1,0
+"Ezequiel","Barco",1,"Atlanta United","Barco, Ezequiel","8","M","Atlanta United",1425000,1425000,0,1,0,0,0,0,0,1,0,0,1
+"Fabian","Herbers",16,"Philadelphia Union","Herbers, Fabian","14","M","Philadelphia Union",100008,100008,0,1,0,0,0,0,0,0,0,0,0
+"Fanendo","Adi",17,"Portland Timbers","Adi, Fanendo","9","F","Portland Timbers",1275000,1933333.33,0,1,0,0,0,0,1,0,0,0,0
+"Fatai","Alashe",19,"San Jose Earthquakes","Alashe, Fatai","27","M","San Jose Earthquakes",107992.5,124242.5,0,1,0,0,0,0,0,0,0,0,0
+"Federico","Higuain",4,"Columbus Crew Sc","Higuain, Federico","10","M","Columbus Crew",1100000.04,1100000.04,0,1,0,0,0,0,1,0,0,0,0
+"Felipe","Gutierrez",21,"Sporting Kansas City","Gutierrez, Felipe","21","M","Sporting Kansas City",1599999.96,1649999.96,0,1,0,0,0,0,1,1,0,0,0
+"Felipe","Martins",23,"Vancouver Whitecaps","Martins, Felipe","8","M","Vancouver Whitecaps",425000.04,425000.04,0,1,0,0,0,0,0,0,0,0,0
+"Femi","Hollinger-Janzen",12,"New England Revolution","Hollinger-Janzen, Femi","88","F","New England Revolution",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Fidel","Escobar",14,"New York Red-Bulls","Escobar, Fidel","29","D","New York Red Bulls",145000.08,145000.08,0,1,0,0,0,0,0,1,0,0,0
+"Florian","Jungwirth",19,"San Jose Earthquakes","Jungwirth, Florian","23","M","San Jose Earthquakes",500004,566671.07,0,1,0,0,0,0,0,0,0,0,0
+"Florian","Valot",14,"New York Red-Bulls","Valot, Florian","22","M","New York Red Bulls",67500,71136.45,0,0,1,0,0,0,0,1,0,0,0
+"Foster","Langsdorf",17,"Portland Timbers","Langsdorf, Foster","28","F","Portland Timbers",54500.04,54500.04,1,0,0,0,0,0,0,0,0,1,0
+"Francis","Atuahene",6,"Fc Dallas","Atuahene, Francis","17","F","FC Dallas",124999.92,168999.92,0,0,1,0,1,0,0,1,0,0,0
+"Francisco","Calvo",10,"Minnesota United","Calvo, Francisco","5","D","Minnesota United",450000,522600,0,1,0,0,0,0,0,0,0,0,0
+"Franco","Escobar",1,"Atlanta United","Escobar, Franco","2","D","Atlanta United",250008,250008,0,1,0,0,0,0,0,1,0,0,0
+"Francois","Affolter",19,"San Jose Earthquakes","Affolter, Francois","3","D","San Jose Earthquakes",200000.04,232650.04,0,1,0,0,0,0,0,1,0,0,0
+"Frantz","Pangop",10,"Minnesota United","Pangop, Frantz","19","M","Minnesota United",67500,67500,0,0,1,0,0,0,0,1,0,0,0
+"Frederic","Brillant",5,"Dc United","Brillant, Frederic","13","D","DC United",264999.96,299999.96,0,1,0,0,0,0,0,0,0,0,0
+"Gabriel","Somi",12,"New England Revolution","Somi, Gabriel","91","D","New England Revolution",390999.96,424999.96,0,1,0,0,0,0,0,1,0,0,0
+"Gaston","Sauro",4,"Columbus Crew Sc","Sauro, Gaston","22","D","Columbus Crew",213750,213750,0,0,1,0,0,0,0,0,0,0,0
+"George","Bello",1,"Atlanta United","Bello, George","21","D","Atlanta United",67500,71500,1,0,0,0,0,0,0,0,0,1,0
+"George","Malki",7,"Houston Dynamo","Malki, George","21","D","Houston Dynamo",68254.2,68254.2,0,0,1,0,0,0,0,0,0,0,0
+"Gerso","Fernandes",21,"Sporting Kansas City","Fernandes, Gerso","12","F","Sporting Kansas City",550008,591258,0,1,0,0,0,0,0,0,0,0,0
+"Gianluca","Busio",21,"Sporting Kansas City","Busio, Gianluca","13","M/F","Sporting Kansas City",80004,82504,0,0,1,0,0,0,0,0,0,1,0
+"Gilbert","Fuentes",19,"San Jose Earthquakes","Fuentes, Gilbert","35","M","San Jose Earthquakes",69999.96,81999.96,1,0,0,0,0,0,0,0,0,1,0
+"Giovani","dos Santos",8,"La Galaxy","dos Santos, Giovani","10","F","LA Galaxy",4250000,6e+06,0,1,0,0,0,0,1,1,0,0,0
+"Gordon","Wild",1,"Atlanta United","Wild, Gordon","22","F","Atlanta United",90000,120000,0,1,0,0,1,0,0,1,1,0,0
+"Graham","Smith",21,"Sporting Kansas City","Smith, Graham","16","D","Sporting Kansas City",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Graham","Zusi",21,"Sporting Kansas City","Zusi, Graham","8","D/M","Sporting Kansas City",750000,782102.27,0,1,0,0,0,0,0,0,0,0,0
+"Grant","Lillard",2,"Chicago Fire","Lillard, Grant","15","D","Chicago Fire",80000.04,82500.04,1,0,0,0,0,0,0,0,0,1,0
+"Greg","Garza",1,"Atlanta United","Garza, Greg","4","D","Atlanta United",175008,175008,0,1,0,0,0,0,0,0,0,0,0
+"Gustav","Svensson",20,"Seattle Sounders","Svensson, Gustav","4","M","Seattle Sounders FC",350000,350000,0,1,0,0,0,0,0,1,0,0,0
+"Gyasi","Zardes",4,"Columbus Crew Sc","Zardes, Gyasi","11","F","Columbus Crew",630000,630000,0,1,0,0,0,0,0,0,0,0,0
+"Handwalla","Bwana",20,"Seattle Sounders","Bwana, Handwalla","70","M","Seattle Sounders FC",54500.04,54500.04,1,0,0,0,0,0,0,0,0,1,0
+"Haris","Medunjanin",16,"Philadelphia Union","Medunjanin, Haris","6","M","Philadelphia Union",500004,545004,0,1,0,0,0,0,0,1,0,0,0
+"Harold","Cummings",19,"San Jose Earthquakes","Cummings, Harold","31","D","San Jose Earthquakes",249996,300662.67,0,1,0,0,0,0,0,1,0,0,0
+"Harrison","Afful",4,"Columbus Crew Sc","Afful, Harrison","25","D","Columbus Crew",288099.96,335599.96,0,1,0,0,0,0,0,0,0,0,0
+"Harrison","Heath",10,"Minnesota United","Heath, Harrison","16","M","Minnesota United",69457.5,69457.5,1,0,0,0,0,0,0,0,0,1,0
+"Harry","Shipp",20,"Seattle Sounders","Shipp, Harry","19","M","Seattle Sounders FC",174999.96,174999.96,0,1,0,0,0,0,0,0,0,1,0
+"Hector","Jimenez",4,"Columbus Crew Sc","Jimenez, Hector","16","M","Columbus Crew",159996,159996,0,1,0,0,0,0,0,0,0,0,0
+"Hector","Villalba",1,"Atlanta United","Villalba, Hector","15","F","Atlanta United",663000,770750,0,1,0,0,0,0,0,0,0,0,0
+"Henry","Wingo",20,"Seattle Sounders","Wingo, Henry","23","M","Seattle Sounders FC",55650,55650,1,0,0,0,0,0,0,0,0,1,0
+"Hugo","Arellano",8,"La Galaxy","Arellano, Hugo","21","D","LA Galaxy",75000,82573.75,1,0,0,0,0,0,0,0,0,1,0
+"Ian","Harkes",5,"Dc United","Harkes, Ian","23","M","DC United",104500,137737.5,1,0,0,0,0,0,0,0,0,1,0
+"Ignacio","Piatti",11,"Montreal Impact","Piatti, Ignacio","10","M","Montreal Impact",500000.04,4713333.37,0,1,0,0,0,0,1,1,0,0,0
+"Ike","Opara",21,"Sporting Kansas City","Opara, Ike","3","D","Sporting Kansas City",324999.96,342916.63,0,1,0,0,0,0,0,0,0,0,0
+"Ilie","Sanchez",21,"Sporting Kansas City","Sanchez, Ilie","6","M","Sporting Kansas City",325008,330008,0,1,0,0,0,0,0,0,0,0,0
+"Jack","Barmby",17,"Portland Timbers","Barmby, Jack","23","M/D","Portland Timbers",68256,68256,0,0,1,0,0,0,0,0,0,0,0
+"Jack","Elliott",16,"Philadelphia Union","Elliott, Jack","3","D","Philadelphia Union",59629.5,59629.5,1,0,0,0,0,0,0,1,0,0,0
+"Jack","McBean",3,"Colorado Rapids","McBean, Jack","32","F","Colorado Rapids",68906.25,68906.25,1,0,0,0,0,0,0,0,0,1,0
+"Jack","Price",3,"Colorado Rapids","Price, Jack","19","M","Colorado Rapids",399999.96,407499.96,0,1,0,0,0,0,0,1,0,0,0
+"Jackson","Yueill",19,"San Jose Earthquakes","Yueill, Jackson","14","M","San Jose Earthquakes",135000,196000,0,0,1,0,0,0,0,0,1,0,0
+"Jacob","Akanyirige",19,"San Jose Earthquakes","Akanyirige, Jacob","29","D","San Jose Earthquakes",54500.04,56500.04,1,0,0,0,0,0,0,0,0,1,0
+"Jacori","Hayes",6,"Fc Dallas","Hayes, Jacori","15","M","FC Dallas",68250.04,75750.04,0,1,0,0,0,0,0,0,0,0,0
+"Jahmir","Hyka",19,"San Jose Earthquakes","Hyka, Jahmir","10","M","San Jose Earthquakes",489996,539996,0,1,0,0,0,0,0,0,0,0,0
+"Jake","Gleeson",17,"Portland Timbers","Gleeson, Jake","90","GK","Portland Timbers",120000,125166.67,1,0,0,0,0,0,0,0,0,0,0
+"Jalen","Robinson",5,"Dc United","Robinson, Jalen","20","D","DC United",75000,75000,1,0,0,0,0,0,0,0,0,1,0
+"Jalil","Anibaba",12,"New England Revolution","Anibaba, Jalil","3","D","New England Revolution",90000,90000,0,1,0,0,0,0,0,0,0,0,0
+"James","Murphy",9,"Lafc","Murphy, James","20","M","LAFC",67500,87500,0,0,1,0,0,0,0,0,0,0,0
+"James","Pantemis",11,"Montreal Impact","Pantemis, James","41","F","Montreal Impact",54500.04,55000.04,1,0,0,0,0,0,0,0,0,1,0
+"James","Sands",13,"New York City-Fc","Sands, James","16","M","New York City FC",54500.04,75333.37,1,0,0,0,0,0,0,0,0,1,0
+"Jared","Jeffrey",5,"Dc United","Jeffrey, Jared","25","M","DC United",114996,124996,0,1,0,0,0,0,0,0,0,0,0
+"Jared","Watts",7,"Houston Dynamo","Watts, Jared","33","D","Houston Dynamo",92500,92500,0,0,1,0,0,0,0,0,0,0,0
+"Jason","Beaulieu",11,"Montreal Impact","Beaulieu, Jason","40","GK","Montreal Impact",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Jason","Hernandez",22,"Toronto Fc","Hernandez, Jason","12","D","Toronto FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Jay","Chapman",22,"Toronto Fc","Chapman, Jay","14","M","Toronto FC",99000,117500,0,0,1,0,0,0,0,0,0,1,0
+"Jay","Simpson",16,"Philadelphia Union","Simpson, Jay","27","F","Philadelphia Union",580008,623341.33,0,1,0,0,0,0,0,1,0,0,0
+"Jaylin","Lindsey",21,"Sporting Kansas City","Lindsey, Jaylin","26","D","Sporting Kansas City",54504,67504,1,0,0,0,0,0,0,0,0,1,0
+"Jeff","Attinella",17,"Portland Timbers","Attinella, Jeff","1","GK","Portland Timbers",114999.96,123999.96,0,1,0,0,0,0,0,0,0,0,0
+"Jeff","Caldwell",13,"New York City-Fc","Caldwell, Jeff","18","GK","New York City FC",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Jeff","Larentowicz",1,"Atlanta United","Larentowicz, Jeff","18","M","Atlanta United",210000,210000,0,1,0,0,0,0,0,0,0,0,0
+"Jefferson","Savarino",18,"Real Salt Lake","Savarino, Jefferson","7","F","Real Salt Lake",375000,398687.65,0,1,0,0,0,0,0,1,0,0,1
+"Jeisson","Vargas",11,"Montreal Impact","Vargas, Jeisson","16","M","Montreal Impact",200000.04,200000.04,0,1,0,0,0,0,0,1,0,0,0
+"Jeremy","Ebobisse",17,"Portland Timbers","Ebobisse, Jeremy","17","F","Portland Timbers",140000,203000,0,0,1,0,0,0,0,0,1,0,0
+"Jerome","Thiesson",10,"Minnesota United","Thiesson, Jerome","3","D","Minnesota United",180000,219166.67,0,1,0,0,0,0,0,1,0,0,0
+"Jesse","Gonzalez",6,"Fc Dallas","Gonzalez, Jesse","1","GK","FC Dallas",187500,211500,0,1,0,0,0,0,0,0,0,1,0
+"Jesus","Ferreira",6,"Fc Dallas","Ferreira, Jesus","27","F","FC Dallas",54500,54500,1,0,0,0,0,0,0,0,0,1,0
+"Jesus","Medina",13,"New York City-Fc","Medina, Jesus","19","M","New York City FC",650000.04,770833.37,0,1,0,0,0,0,1,1,0,0,0
+"Jimmy","Maurer",6,"Fc Dallas","Maurer, Jimmy","14","GK","FC Dallas",120000,122500,0,1,0,0,0,0,0,0,0,0,0
+"Jimmy","Medranda",21,"Sporting Kansas City","Medranda, Jimmy","94","D/M","Sporting Kansas City",140004,140004,0,1,0,0,0,0,0,0,0,0,0
+"Jimmy","Ockford",19,"San Jose Earthquakes","Ockford, Jimmy","15","D","San Jose Earthquakes",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Jo Inge","Berget",13,"New York City-Fc","Berget, Jo Inge","9","F","New York City FC",6e+05,816666.67,0,1,0,0,0,0,0,1,0,0,0
+"Joao","Moutinho",9,"Lafc","Moutinho, Joao","44","D","LAFC",129999.96,169999.96,0,0,1,0,0,0,0,1,0,0,0
+"Joao","Pedro",8,"La Galaxy","Pedro, Joao","88","M","LA Galaxy",219996,240996,0,1,0,0,0,0,0,1,0,0,0
+"Joao","Plata",18,"Real Salt Lake","Plata, Joao","10","F","Real Salt Lake",525000,683333.33,0,1,0,0,0,0,0,0,0,0,0
+"Joe","Bendik",15,"Orlando City","Bendik, Joe","1","GK","Orlando City SC",180000,189083.4,0,1,0,0,0,0,0,0,0,0,0
+"Joe","Mason",3,"Colorado Rapids","Mason, Joe","10","F","Colorado Rapids",650000.04,682500.04,0,1,0,0,0,0,0,1,0,0,0
+"Joe","Scally",13,"New York City-Fc","Scally, Joe","25","D","New York City FC",54500.04,76316.71,1,0,0,0,0,0,0,0,0,1,0
+"Joe","Willis",7,"Houston Dynamo","Willis, Joe","23","GK","Houston Dynamo",124999.92,132749.92,0,1,0,0,0,0,0,0,0,0,0
+"Joel","Qwiberg",19,"San Jose Earthquakes","Qwiberg, Joel","2","D","San Jose Earthquakes",129999.96,167999.96,0,1,0,0,0,0,0,1,0,0,0
+"Johan","Blomberg",3,"Colorado Rapids","Blomberg, Johan","8","M","Colorado Rapids",239808,239808,0,1,0,0,0,0,0,1,0,0,0
+"Johan","Kappelhof",2,"Chicago Fire","Kappelhof, Johan","4","D","Chicago Fire",555000,595000,0,1,0,0,0,0,0,0,0,0,0
+"Johan","Venegas",10,"Minnesota United","Venegas, Johan","11","M","Minnesota United",225000,237500,0,1,0,0,1,0,0,1,0,0,0
+"John","McCarthy",16,"Philadelphia Union","McCarthy, John","1","GK","Philadelphia Union",95000,104250,0,1,0,0,0,0,0,0,0,0,0
+"Johnny","Russell",21,"Sporting Kansas City","Russell, Johnny","7","F","Sporting Kansas City",699999.96,699999.96,0,1,0,0,0,0,0,1,0,0,0
+"Jon","Bakero",2,"Chicago Fire","Bakero, Jon","22","F","Chicago Fire",84999.96,101374.96,0,0,1,1,0,0,0,1,0,0,0
+"Jon","Gallagher",1,"Atlanta United","Gallagher, Jon","26","F","Atlanta United",67500,68750,0,0,1,0,0,0,0,1,0,0,0
+"Jonathan","Campbell",2,"Chicago Fire","Campbell, Jonathan","16","D","Chicago Fire",111925,120050,0,1,0,0,0,0,0,0,0,0,0
+"Jonathan","dos Santos",8,"La Galaxy","dos Santos, Jonathan","8","M","LA Galaxy",2000000.04,2000000.04,0,1,0,0,0,0,1,1,0,0,0
+"Jonathan","Lewis",13,"New York City-Fc","Lewis, Jonathan","17","F","New York City FC",90000,125500,0,0,1,0,0,0,0,0,1,0,0
+"Jonathan","Mensah",4,"Columbus Crew Sc","Mensah, Jonathan","4","D","Columbus Crew",774996,868996,0,1,0,0,0,0,0,1,0,0,0
+"Jonathan","Osorio",22,"Toronto Fc","Osorio, Jonathan","21","M","Toronto FC",201350.63,209825.25,0,1,0,0,0,0,0,0,0,0,0
+"Jonathan","Spector",15,"Orlando City","Spector, Jonathan","2","D","Orlando City SC",575004,636941.5,0,1,0,0,0,0,0,0,0,0,0
+"Jordan","Allen",18,"Real Salt Lake","Allen, Jordan","70","M/F","Real Salt Lake",225000,225000,0,1,0,0,0,0,0,0,0,0,0
+"Jordan","Cano",6,"Fc Dallas","Cano, Jordan","34","D","FC Dallas",54500.04,54500.04,1,0,0,0,0,0,0,0,0,1,0
+"Jordan","Hamilton",22,"Toronto Fc","Hamilton, Jordan","22","F","Toronto FC",72930.38,100430.38,1,0,0,0,0,0,0,0,0,1,0
+"Jordan","Harvey",9,"Lafc","Harvey, Jordan","2","D","LAFC",150000,150000,0,1,0,0,0,0,0,0,0,0,0
+"Jordan","McCrary",20,"Seattle Sounders","McCrary, Jordan","30","D","Seattle Sounders FC",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Jordan","Morris",20,"Seattle Sounders","Morris, Jordan","13","F","Seattle Sounders FC",222000,234500,0,0,1,0,0,0,0,0,0,1,0
+"Jordon","Mutch",23,"Vancouver Whitecaps","Mutch, Jordon","77","M","Vancouver Whitecaps",156000,284166.67,0,1,0,0,0,0,0,1,0,0,0
+"Jordy","Delem",20,"Seattle Sounders","Delem, Jordy","21","M","Seattle Sounders FC",55654.2,55654.2,0,1,0,0,0,0,0,1,0,0,0
+"Jorge","Corrales",2,"Chicago Fire","Corrales, Jorge","25","D","Chicago Fire",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Jorgen","Skjelvik",8,"La Galaxy","Skjelvik, Jorgen","16","D","LA Galaxy",9e+05,1e+06,0,1,0,0,0,0,0,1,0,0,0
+"Jose","Aja",23,"Vancouver Whitecaps","Aja, Jose","18","D","Vancouver Whitecaps",240000,240000,0,1,0,0,0,0,0,0,0,0,0
+"Jose","Villarreal",15,"Orlando City","Villarreal, Jose","33","M","Orlando City SC",84999.96,84999.96,1,0,0,0,0,0,0,0,0,1,0
+"Josef","Martinez",1,"Atlanta United","Martinez, Josef","7","F","Atlanta United",1270008,1387318,0,1,0,0,0,0,1,1,0,0,0
+"Joseph","Mora",5,"Dc United","Mora, Joseph","28","D","DC United",90000,104250,0,1,0,0,0,0,0,1,0,0,0
+"Josue","Colman",15,"Orlando City","Colman, Josue","10","M","Orlando City SC",150000,150000,0,1,0,0,0,0,0,1,0,0,1
+"Jozy","Altidore",22,"Toronto Fc","Altidore, Jozy","17","F","Toronto FC",5e+06,5e+06,0,1,0,0,0,0,1,0,0,0,0
+"JT","Marcinkowski",19,"San Jose Earthquakes","Marcinkowski, JT","18","GK","San Jose Earthquakes",120000,132000,0,0,1,0,0,0,0,0,0,1,0
+"Juan","Agudelo",12,"New England Revolution","Agudelo, Juan","17","F","New England Revolution",575000,602500,0,1,0,0,0,0,0,0,0,0,0
+"Jukka","Raitala",11,"Montreal Impact","Raitala, Jukka","22","D","Montreal Impact",205004,241670.67,0,1,0,0,0,0,0,1,0,0,0
+"Julian","Dunn",22,"Toronto Fc","Dunn, Julian","52","D","Toronto FC",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Julian","Gressel",1,"Atlanta United","Gressel, Julian","24","M","Atlanta United",92500,111250,0,1,0,0,0,0,0,1,0,0,0
+"Julio","Cascante",17,"Portland Timbers","Cascante, Julio","18","D","Portland Timbers",150000,150000,0,1,0,0,0,0,0,1,0,0,0
+"Junior","Moreno",5,"Dc United","Moreno, Junior","5","M","DC United",120000,139500,0,1,0,0,0,0,0,1,0,0,0
+"Justen","Glad",18,"Real Salt Lake","Glad, Justen","15","D","Real Salt Lake",270000,291700,0,1,0,0,0,0,0,0,0,0,0
+"Justin","Fiddes",23,"Vancouver Whitecaps","Fiddes, Justin","25","D","Vancouver Whitecaps",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Justin","Meram",15,"Orlando City","Meram, Justin","9","M","Orlando City SC",550008,578758,0,1,0,0,0,0,0,0,0,0,0
+"Justin","Morrow",22,"Toronto Fc","Morrow, Justin","2","D","Toronto FC",3e+05,3e+05,0,1,0,0,0,0,0,0,0,0,0
+"Justin","Vom Steeg",8,"La Galaxy","Vom Steeg, Justin","41","GK","LA Galaxy",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Keegan","Rosenberry",16,"Philadelphia Union","Rosenberry, Keegan","12","D","Philadelphia Union",114950,120762.5,0,1,0,0,0,0,0,0,0,0,0
+"Kei","Kamara",23,"Vancouver Whitecaps","Kamara, Kei","23","F","Vancouver Whitecaps",1e+06,1e+06,0,1,0,0,0,0,0,0,0,0,0
+"Kellyn","Acosta",6,"Fc Dallas","Acosta, Kellyn","23","M","FC Dallas",280000,3e+05,0,1,0,0,0,0,0,0,0,1,0
+"Kelvin","Leerdam",20,"Seattle Sounders","Leerdam, Kelvin","18","D","Seattle Sounders FC",500000.04,575000.04,0,1,0,0,0,0,0,1,0,0,0
+"Kelyn","Rowe",12,"New England Revolution","Rowe, Kelyn","11","M","New England Revolution",193000,258000,0,1,0,0,0,0,0,0,0,0,0
+"Kemar","Lawrence",14,"New York Red-Bulls","Lawrence, Kemar","92","D","New York Red Bulls",150000,255600,0,1,0,0,0,0,0,0,0,0,0
+"Ken","Krolicki",11,"Montreal Impact","Krolicki, Ken","13","M","Montreal Impact",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Kendall","McIntosh",17,"Portland Timbers","McIntosh, Kendall","43","GK","Portland Timbers",55650,55650,1,0,0,0,0,0,0,0,0,0,0
+"Kendall","Waston",23,"Vancouver Whitecaps","Waston, Kendall","4","D","Vancouver Whitecaps",574999.92,604166.52,0,1,0,0,0,0,1,0,0,0,0
+"Kevin","Ellis",2,"Chicago Fire","Ellis, Kevin","5","D","Chicago Fire",150000,158333.33,0,0,1,0,0,0,0,0,0,0,0
+"Kevin","Garcia",7,"Houston Dynamo","Garcia, Kevin","16","D","Houston Dynamo",68915.07,68915.07,0,0,1,0,0,0,0,0,0,0,0
+"Kevin","Kratz",1,"Atlanta United","Kratz, Kevin","32","M","Atlanta United",165000,179250,0,1,0,0,0,0,0,0,0,0,0
+"Kharlton","Belmar",21,"Sporting Kansas City","Belmar, Kharlton","90","F","Sporting Kansas City",68254.2,68254.2,0,1,0,0,0,0,0,0,0,0,0
+"Khiry","Shelton",21,"Sporting Kansas City","Shelton, Khiry","14","F","Sporting Kansas City",102245,119745,0,1,0,0,0,0,0,0,0,0,0
+"Kip","Colvey",3,"Colorado Rapids","Colvey, Kip","23","D","Colorado Rapids",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Kofi","Opare",5,"Dc United","Opare, Kofi","6","D","DC United",118125,133125,0,1,0,0,0,0,0,0,0,0,0
+"Kortne","Ford",3,"Colorado Rapids","Ford, Kortne","24","D","Colorado Rapids",82500,89500,1,0,0,0,0,0,0,0,0,1,0
+"Kris","Reaves",6,"Fc Dallas","Reaves, Kris","32","D","FC Dallas",67500,67500,1,0,0,0,0,0,0,0,0,1,0
+"Krisztian","Nemeth",12,"New England Revolution","Nemeth, Krisztian","9","F","New England Revolution",9e+05,1007666.67,0,1,0,0,0,0,0,1,0,0,0
+"Kwame","Awuah",13,"New York City-Fc","Awuah, Kwame","14","M","New York City FC",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Kyle","Beckerman",18,"Real Salt Lake","Beckerman, Kyle","5","M/F","Real Salt Lake",505008,530008,0,1,0,0,0,0,0,0,0,0,0
+"Kyle","Duncan",14,"New York Red-Bulls","Duncan, Kyle","6","D","New York Red Bulls",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Kyle","Fisher",11,"Montreal Impact","Fisher, Kyle","26","D","Montreal Impact",55654.2,55654.2,1,0,0,1,0,0,0,0,0,0,0
+"Kyle","Zobeck",6,"Fc Dallas","Zobeck, Kyle","30","GK","FC Dallas",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Lagos","Kunga",1,"Atlanta United","Kunga, Lagos","23","F","Atlanta United",54500.04,58500.04,1,0,0,0,0,0,0,0,0,1,0
+"Lalas","Abubakar",4,"Columbus Crew Sc","Abubakar, Lalas","17","D","Columbus Crew",68250.04,75750.04,0,1,0,0,0,0,0,1,0,0,0
+"Lamar","Neagle",20,"Seattle Sounders","Neagle, Lamar","27","M/F","Seattle Sounders FC",96000,99000,0,1,0,0,0,0,0,0,0,0,0
+"Lamine","Sane",15,"Orlando City","Sane, Lamine","22","D","Orlando City SC",807500.04,855000.04,0,1,0,0,0,0,0,1,0,0,0
+"Larrys","Mabiala",17,"Portland Timbers","Mabiala, Larrys","33","D","Portland Timbers",750000,793333.33,0,1,0,0,0,0,0,1,0,0,0
+"Latif","Blessing",9,"Lafc","Blessing, Latif","7","F","LAFC",75000,84375,0,1,0,0,0,0,0,0,0,0,0
+"Laurent","Ciman",9,"Lafc","Ciman, Laurent","23","D","LAFC",630000,661666.67,0,1,0,0,0,0,0,1,0,0,0
+"Lawrence","Olum",17,"Portland Timbers","Olum, Lawrence","13","M/D","Portland Timbers",185004,200004,0,1,0,0,0,0,0,0,0,0,0
+"Lee","Nguyen",9,"Lafc","Nguyen, Lee","24","M","LAFC",5e+05,5e+05,0,1,0,0,0,0,0,0,0,0,0
+"Liam","Fraser",22,"Toronto Fc","Fraser, Liam","63","M","Toronto FC",67500,72500,1,0,0,0,0,0,0,0,0,1,0
+"Liam","Ridgewell",17,"Portland Timbers","Ridgewell, Liam","24","D","Portland Timbers",7e+05,7e+05,0,1,0,0,0,0,0,0,0,0,0
+"Logan","Ketterer",4,"Columbus Crew Sc","Ketterer, Logan","30","GK","Columbus Crew",67500,67500,1,0,0,0,0,0,0,0,0,0,0
+"Louis","Beland-Goyette",11,"Montreal Impact","Beland-Goyette, Louis","25","M","Montreal Impact",54500,55750,1,0,0,0,0,0,0,0,0,1,0
+"Lucas","Melano",17,"Portland Timbers","Melano, Lucas","26","F","Portland Timbers",830000,1050000,0,1,0,0,1,0,0,1,0,0,0
+"Luciano","Acosta",5,"Dc United","Acosta, Luciano","10","M/F","DC United",550000,652000,0,1,0,0,0,0,0,0,0,0,0
+"Luis","Argudo",4,"Columbus Crew Sc","Argudo, Luis","26","M","Columbus Crew",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Luis","Felipe",19,"San Jose Earthquakes","Felipe, Luis","96","M","San Jose Earthquakes",67500,68500,0,0,1,0,0,0,0,0,0,0,0
+"Luis","Gil",7,"Houston Dynamo","Gil, Luis","13","M","Houston Dynamo",67500,67500,0,1,0,0,0,0,0,0,0,0,0
+"Luis","Lopez",9,"Lafc","Lopez, Luis","22","GK","LAFC",70000.08,147500.08,0,1,0,0,0,0,0,1,0,0,0
+"Luis","Robles",14,"New York Red-Bulls","Robles, Luis","31","GK","New York Red Bulls",460000.08,460000.08,0,1,0,0,0,0,0,0,0,0,0
+"Luis","Silva",18,"Real Salt Lake","Silva, Luis","20","F","Real Salt Lake",225000,233666.67,0,1,0,0,0,0,0,0,0,0,0
+"Luis","Solignac",2,"Chicago Fire","Solignac, Luis","9","F","Chicago Fire",3e+05,353312.5,0,1,0,0,0,0,0,1,0,0,0
+"Luke","Mulholland",18,"Real Salt Lake","Mulholland, Luke","19","M","Real Salt Lake",173250,173250,0,1,0,0,0,0,0,0,0,0,0
+"Mac","Steeves",7,"Houston Dynamo","Steeves, Mac","19","F","Houston Dynamo",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Magnus","Eikrem",20,"Seattle Sounders","Eikrem, Magnus","22","M","Seattle Sounders FC",480000,546666.67,0,1,0,0,0,0,0,1,0,0,0
+"Magnus","Eriksson",19,"San Jose Earthquakes","Eriksson, Magnus","7","M","San Jose Earthquakes",399999.96,399999.96,0,1,0,0,0,0,0,1,0,0,0
+"Marc","Burch",10,"Minnesota United","Burch, Marc","8","D","Minnesota United",140004,140004,0,1,0,0,0,0,0,0,0,0,0
+"Marc","Rzatkowski",14,"New York Red-Bulls","Rzatkowski, Marc","90","M","New York Red Bulls",885000,976166.66,0,1,0,0,0,0,0,1,0,0,0
+"Marcelo","Silva",18,"Real Salt Lake","Silva, Marcelo","30","D","Real Salt Lake",675000,711875,0,1,0,0,0,0,0,1,0,0,0
+"Marco","Delgado",22,"Toronto Fc","Delgado, Marco","18","M","Toronto FC",230000,230000,0,1,0,0,0,0,0,0,0,1,0
+"Marco","Donadel",11,"Montreal Impact","Donadel, Marco","33","M","Montreal Impact",120000,305328,0,1,0,1,0,0,0,1,0,0,0
+"Marco","Farfan",17,"Portland Timbers","Farfan, Marco","32","D","Portland Timbers",64500,64500,1,0,0,0,0,0,0,0,0,1,0
+"Marco","Urena",9,"Lafc","Urena, Marco","21","F","LAFC",279996,294412.67,0,1,0,0,0,0,0,1,0,0,0
+"Marcus","Epps",16,"Philadelphia Union","Epps, Marcus","20","M","Philadelphia Union",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Mark","McKenzie",16,"Philadelphia Union","McKenzie, Mark","4","D","Philadelphia Union",54500.04,64500.04,1,0,0,0,0,0,0,0,0,1,0
+"Mark","Segbers",12,"New England Revolution","Segbers, Mark","16","M/D","New England Revolution",54500.04,57760.82,1,0,0,0,0,0,0,0,0,0,0
+"Mark-Anthony","Kaye",9,"Lafc","Kaye, Mark-Anthony","17","M","LAFC",69999.96,74999.96,0,1,0,0,0,0,0,0,0,0,0
+"Marlon","Hairston",3,"Colorado Rapids","Hairston, Marlon","94","M","Colorado Rapids",144996,144996,0,1,0,0,0,0,0,0,0,0,0
+"Mason","Stajduhar",15,"Orlando City","Stajduhar, Mason","31","GK","Orlando City SC",67500,67500,1,0,0,0,0,0,0,0,0,1,0
+"Mason","Toye",10,"Minnesota United","Toye, Mason","23","F","Minnesota United",124999.92,177999.92,0,0,1,0,0,0,0,0,1,0,0
+"Matt","Bersano",19,"San Jose Earthquakes","Bersano, Matt","12","GK","San Jose Earthquakes",68254.2,68254.2,0,1,0,0,0,0,0,0,0,0,0
+"Matt","Besler",21,"Sporting Kansas City","Besler, Matt","5","D","Sporting Kansas City",750000,783250,0,1,0,0,0,0,0,0,0,0,0
+"Matt","Hedges",6,"Fc Dallas","Hedges, Matt","24","D","FC Dallas",500004,525004,0,1,0,0,0,0,0,0,0,0,0
+"Matt","Lampson",10,"Minnesota United","Lampson, Matt","28","GK","Minnesota United",100000.08,107500.08,0,1,0,0,0,0,0,0,0,0,0
+"Matt","Lewis",21,"Sporting Kansas City","Lewis, Matt","88","D","Sporting Kansas City",54500.04,54500.04,1,0,0,0,0,0,0,0,0,1,0
+"Matt","Polster",2,"Chicago Fire","Polster, Matt","2","M","Chicago Fire",109890,124890,0,1,0,0,0,0,0,0,0,0,0
+"Matt","Turner",12,"New England Revolution","Turner, Matt","30","GK","New England Revolution",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Matteo","Mancosu",11,"Montreal Impact","Mancosu, Matteo","21","F","Montreal Impact",700000.08,719541.75,0,1,0,0,0,0,0,1,0,0,0
+"Matthew","Real",16,"Philadelphia Union","Real, Matthew","32","D","Philadelphia Union",54500.04,54500.04,1,0,0,0,0,0,0,0,0,1,0
+"Mauro","Diaz",6,"Fc Dallas","Diaz, Mauro","10","M","FC Dallas",853000,949890,0,1,0,0,0,0,0,0,0,0,0
+"Mauro","Manotas",7,"Houston Dynamo","Manotas, Mauro","9","F","Houston Dynamo",264328.08,264328.08,0,1,0,0,0,0,0,0,0,0,0
+"Maxi","Moralez",13,"New York City-Fc","Moralez, Maxi","10","M","New York City FC",2000000.04,2000000.04,0,1,0,0,0,0,1,1,0,0,0
+"Maxime","Chanot",13,"New York City-Fc","Chanot, Maxime","4","D","New York City FC",375000,408000,0,1,0,0,0,0,0,0,0,0,0
+"Maximiliano","Urruti",6,"Fc Dallas","Urruti, Maximiliano","37","F","FC Dallas",700000.08,781000.08,0,1,0,0,0,0,0,0,0,0,0
+"Maynor","Figueroa",6,"Fc Dallas","Figueroa, Maynor","31","D","FC Dallas",240000,250000,0,1,0,0,0,0,0,1,0,0,0
+"Memo","Rodriguez",7,"Houston Dynamo","Rodriguez, Memo","8","M","Houston Dynamo",55654.2,55654.2,1,0,0,0,0,0,0,0,0,1,0
+"Michael","Barrios",6,"Fc Dallas","Barrios, Michael","21","M","FC Dallas",400000.08,400000.08,0,1,0,0,0,0,0,0,0,0,0
+"Michael","Boxall",10,"Minnesota United","Boxall, Michael","25","D","Minnesota United",250008,267341.33,0,1,0,0,0,0,0,1,0,0,0
+"Michael","Bradley",22,"Toronto Fc","Bradley, Michael","4","M","Toronto FC",6e+06,6500000,0,1,0,0,0,0,1,0,0,0,0
+"Michael","Ciani",8,"La Galaxy","Ciani, Michael","28","D","LA Galaxy",6e+05,620000,0,1,0,0,0,0,0,1,0,0,0
+"Michael","de Leeuw",2,"Chicago Fire","de Leeuw, Michael","8","F","Chicago Fire",525000,589212.5,0,1,0,1,0,0,0,1,0,0,0
+"Michael","Murillo",14,"New York Red-Bulls","Murillo, Michael","62","D","New York Red Bulls",80004,88754,0,1,0,0,0,0,0,1,0,0,0
+"Michael","Nelson",7,"Houston Dynamo","Nelson, Michael","26","GK","Houston Dynamo",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Michael","Parkhurst",1,"Atlanta United","Parkhurst, Michael","3","D","Atlanta United",340008,340008,0,1,0,0,0,0,0,0,0,0,0
+"Michael","Petrasso",11,"Montreal Impact","Petrasso, Michael","24","D","Montreal Impact",155003.64,168128.64,0,1,0,0,0,0,0,0,0,0,0
+"Michael","Salazar",11,"Montreal Impact","Salazar, Michael","19","F","Montreal Impact",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Miguel","Almiron",1,"Atlanta United","Almiron, Miguel","10","M","Atlanta United",1912500,2297000,0,1,0,0,0,0,1,1,0,0,0
+"Miguel","Ibarra",10,"Minnesota United","Ibarra, Miguel","10","M","Minnesota United",3e+05,332322,0,1,0,0,0,0,0,0,0,0,0
+"Mike","Grella",4,"Columbus Crew Sc","Grella, Mike","13","M","Columbus Crew",195300,197550,0,1,0,0,0,0,0,0,0,0,0
+"Mikey","Ambrose",1,"Atlanta United","Ambrose, Mikey","22","D","Atlanta United",68906.25,68906.25,0,0,1,0,0,0,0,0,0,0,0
+"Miles","Robinson",1,"Atlanta United","Robinson, Miles","12","D","Atlanta United",135000,205000,0,0,1,0,0,0,0,0,1,0,0
+"Milton","Valenzuela",4,"Columbus Crew Sc","Valenzuela, Milton","19","D","Columbus Crew",282000,313300,0,1,0,0,0,0,1,1,0,0,0
+"Mitch","Hildebrandt",1,"Atlanta United","Hildebrandt, Mitch","27","GK","Atlanta United",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Modou","Jadama",17,"Portland Timbers","Jadama, Modou","26","D","Portland Timbers",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Mohammed","Abu",4,"Columbus Crew Sc","Abu, Mohammed","8","M","Columbus Crew",175008,181258,0,1,0,0,0,0,0,0,0,0,0
+"Myer","Bevan",23,"Vancouver Whitecaps","Bevan, Myer","45","F","Vancouver Whitecaps",54500.04,54500.04,1,0,0,0,1,0,0,0,0,0,0
+"Nemanja","Nikolic",2,"Chicago Fire","Nikolic, Nemanja","23","F","Chicago Fire",1700000.04,1906333.37,0,1,0,0,0,0,1,1,0,0,0
+"Nick","Besler",18,"Real Salt Lake","Besler, Nick","13","M/F","Real Salt Lake",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Nick","DeLeon",5,"Dc United","DeLeon, Nick","14","M","DC United",275000,275000,0,1,0,0,0,0,0,0,0,0,0
+"Nick","DePuy",11,"Montreal Impact","DePuy, Nick","27","F","Montreal Impact",68254.2,75754.2,0,0,1,0,1,0,0,0,0,0,0
+"Nick","Hagglund",22,"Toronto Fc","Hagglund, Nick","6","D","Toronto FC",125004,134629,0,1,0,0,0,0,0,0,0,0,0
+"Nick","Lima",19,"San Jose Earthquakes","Lima, Nick","24","D","San Jose Earthquakes",93996,100200.03,0,1,0,0,0,0,0,0,0,1,0
+"Nick","Rimando",18,"Real Salt Lake","Rimando, Nick","18","GK","Real Salt Lake",399999.96,422499.96,0,1,0,0,0,0,0,0,0,0,0
+"Nicolas","Hasler",22,"Toronto Fc","Hasler, Nicolas","26","M/D","Toronto FC",132000,147666.67,0,1,0,0,0,0,0,1,0,0,0
+"Nicolas","Lodeiro",20,"Seattle Sounders","Lodeiro, Nicolas","10","M","Seattle Sounders FC",1800000,2302500,0,1,0,0,0,0,1,0,0,0,0
+"Nicolas","Mezquida",23,"Vancouver Whitecaps","Mezquida, Nicolas","11","M","Vancouver Whitecaps",130000.08,130000.08,0,1,0,0,0,0,0,1,0,0,0
+"Nicolas","Samayoa",12,"New England Revolution","Samayoa, Nicolas","12","D","New England Revolution",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Niki","Jackson",3,"Colorado Rapids","Jackson, Niki","12","F","Colorado Rapids",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Niko","Hansen",4,"Columbus Crew Sc","Hansen, Niko","28","M","Columbus Crew",68250.04,75750.04,0,0,1,0,0,0,0,0,0,0,0
+"Nouhou","Tolo",20,"Seattle Sounders","Tolo, Nouhou","5","D","Seattle Sounders FC",54500,54500,1,0,0,0,0,0,0,1,0,0,0
+"Ola","Kamara",8,"La Galaxy","Kamara, Ola","11","F","LA Galaxy",825000,925000,0,1,0,0,0,0,0,0,0,0,0
+"Oliver","Shannon",1,"Atlanta United","Shannon, Oliver","29","M","Atlanta United",54500.04,54500.04,1,0,0,0,1,0,0,1,0,0,0
+"Olivier","Mbaizo",16,"Philadelphia Union","Mbaizo, Olivier","5","D","Philadelphia Union",67500,67500,0,1,0,0,0,0,0,1,0,0,0
+"Omar","Gaber",9,"Lafc","Gaber, Omar","4","D/M","LAFC",500000.04,500000.04,0,1,0,0,0,0,0,1,0,0,0
+"Oniel","Fisher",5,"Dc United","Fisher, Oniel","19","D","DC United",68906.25,68906.25,0,0,1,0,0,0,0,0,0,0,0
+"Oriol","Rosell",15,"Orlando City","Rosell, Oriol","20","M/D","Orlando City SC",412500,412500,0,1,0,0,0,0,0,1,0,0,0
+"Osvaldo","Alonso",20,"Seattle Sounders","Alonso, Osvaldo","6","M","Seattle Sounders FC",1100000.04,1141667.04,0,1,0,0,0,0,1,0,0,0,0
+"Pablo","Ruiz",18,"Real Salt Lake","Ruiz, Pablo","31","M","Real Salt Lake",180000,201000,0,1,0,0,0,0,0,1,0,0,0
+"Patrick","McLain",2,"Chicago Fire","McLain, Patrick","32","GK","Chicago Fire",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Patrick","Mullins",5,"Dc United","Mullins, Patrick","16","F","DC United",249996,249996,0,1,0,0,0,0,0,0,0,0,0
+"Paul","Arriola",5,"Dc United","Arriola, Paul","7","M/F","DC United",624999.96,638999.96,0,1,0,0,0,0,1,0,0,0,0
+"Paul","Marie",19,"San Jose Earthquakes","Marie, Paul","33","M","San Jose Earthquakes",54500.04,54500.04,1,0,0,0,0,0,0,1,0,0,0
+"Paxton","Pomykal",6,"Fc Dallas","Pomykal, Paxton","19","M","FC Dallas",85000,90000,0,0,1,0,0,0,0,0,0,1,0
+"Pedro","Santos",4,"Columbus Crew Sc","Santos, Pedro","9","M","Columbus Crew",747600,794600,0,1,0,0,0,0,1,1,0,0,0
+"Perry","Kitchen",8,"La Galaxy","Kitchen, Perry","2","M","LA Galaxy",450000,474166.67,0,1,0,0,0,0,0,0,0,0,0
+"Philippe","Senderos",7,"Houston Dynamo","Senderos, Philippe","4","D","Houston Dynamo",225000,242500,0,1,0,0,0,0,0,1,0,0,0
+"Pierre","Da Silva",15,"Orlando City","Da Silva, Pierre","11","M","Orlando City SC",54504,54504,1,0,0,0,0,0,0,0,0,0,0
+"Quincy","Amarikwa",19,"San Jose Earthquakes","Amarikwa, Quincy","25","F","San Jose Earthquakes",275500,289166.67,0,1,0,0,0,0,0,0,0,0,0
+"Rafael","Ramos",2,"Chicago Fire","Ramos, Rafael","27","D","Chicago Fire",105840,105840,0,1,0,0,0,0,0,0,0,0,0
+"Raheem","Edwards",11,"Montreal Impact","Edwards, Raheem","14","M","Montreal Impact",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Rasmus","Schuller",10,"Minnesota United","Schuller, Rasmus","20","M","Minnesota United",200004,225004,0,1,0,0,0,0,0,0,0,0,0
+"Raymon","Gaddis",16,"Philadelphia Union","Gaddis, Raymon","28","D","Philadelphia Union",180000,182500,0,1,0,0,0,0,0,0,0,0,0
+"Reto","Ziegler",6,"Fc Dallas","Ziegler, Reto","3","D","FC Dallas",750000,8e+05,0,1,0,0,0,0,0,1,0,0,0
+"Ricardo","Clark",4,"Columbus Crew Sc","Clark, Ricardo","2","M","Columbus Crew",125000.04,125000.04,0,1,0,0,0,0,0,0,0,0,0
+"Ricardo","Perez",3,"Colorado Rapids","Perez, Ricardo","20","M","Colorado Rapids",60000,61250,1,0,0,0,0,0,0,0,0,1,0
+"Richard","Sanchez",2,"Chicago Fire","Sanchez, Richard","45","GK","Chicago Fire",130000.08,132500.08,0,1,0,0,0,0,0,0,0,0,0
+"Richie","Marquez",16,"Philadelphia Union","Marquez, Richie","16","D","Philadelphia Union",145000,151430,0,1,0,0,0,0,0,0,0,0,0
+"Ricky","Lopez-Espin",18,"Real Salt Lake","Lopez-Espin, Ricky","28","F","Real Salt Lake",67500,76250,0,0,1,0,0,0,0,0,0,0,0
+"RJ","Allen",15,"Orlando City","Allen, RJ","27","D","Orlando City SC",90000,90000,0,1,0,0,0,0,0,0,0,0,0
+"Rod","Fanni",11,"Montreal Impact","Fanni, Rod","15","D","Montreal Impact",690000,710000,0,1,0,0,0,0,0,1,0,0,0
+"Rodney","Wallace",13,"New York City-Fc","Wallace, Rodney","23","F","New York City FC",300000.08,300000.08,0,1,0,0,0,0,0,0,0,0,0
+"Rodrigo","Pacheco",9,"Lafc","Pacheco, Rodrigo","50","F","LAFC",99999.96,99999.96,0,1,0,0,0,0,0,1,0,0,0
+"Roger","Espinoza",21,"Sporting Kansas City","Espinoza, Roger","17","M","Sporting Kansas City",9e+05,9e+05,0,1,0,0,0,0,1,0,0,0,0
+"Roland","Lamah",6,"Fc Dallas","Lamah, Roland","20","M","FC Dallas",675000,818500,0,1,0,0,0,0,0,1,0,0,0
+"Rolf","Feltscher",8,"La Galaxy","Feltscher, Rolf","25","D","LA Galaxy",240000,270000,0,1,0,1,0,0,0,1,0,0,0
+"Romain","Alessandrini",8,"La Galaxy","Alessandrini, Romain","7","M","LA Galaxy",1539996,1869996,0,1,0,0,0,0,1,1,0,0,0
+"Roman","Torres",20,"Seattle Sounders","Torres, Roman","29","D","Seattle Sounders FC",575000.04,645000.04,0,1,0,0,0,0,0,0,0,0,0
+"Romario","Williams",1,"Atlanta United","Williams, Romario","9","F","Atlanta United",71500,71500,0,1,0,0,0,0,0,0,0,0,0
+"Romell","Quioto",7,"Houston Dynamo","Quioto, Romell","31","F","Houston Dynamo",240000,252500,0,1,0,0,0,0,0,1,0,0,0
+"Ronald","Matarrita",13,"New York City-Fc","Matarrita, Ronald","22","D","New York City FC",275000.04,395000.04,0,1,0,0,0,0,0,0,0,0,0
+"Roy","Miller",17,"Portland Timbers","Miller, Roy","7","D","Portland Timbers",150000,150000,0,1,0,0,0,0,0,0,0,0,0
+"Rudy","Camacho",11,"Montreal Impact","Camacho, Rudy","4","D","Montreal Impact",650000.04,699152.54,0,1,0,0,0,0,0,1,0,0,0
+"Russell","Canouse",5,"Dc United","Canouse, Russell","4","M","DC United",247500,247500,0,1,0,0,0,0,0,0,0,0,0
+"Russell","Teibert",23,"Vancouver Whitecaps","Teibert, Russell","31","M","Vancouver Whitecaps",140000.04,160000.04,0,0,1,0,0,0,0,0,0,1,0
+"Ryan","Hollingshead",6,"Fc Dallas","Hollingshead, Ryan","12","M","FC Dallas",145000,145000,0,1,0,0,0,0,0,0,0,0,0
+"Ryan","Meara",14,"New York Red-Bulls","Meara, Ryan","18","GK","New York Red Bulls",120000,125000,0,1,0,0,0,0,0,0,0,0,0
+"Saad","Abdul-Salaam",13,"New York City-Fc","Abdul-Salaam, Saad","13","D","New York City FC",106480,120230,0,1,0,0,0,0,0,0,0,0,0
+"Sacha","Kljestan",15,"Orlando City","Kljestan, Sacha","16","M","Orlando City SC",1025000.04,1100000.04,0,1,0,0,0,0,1,0,0,0,0
+"Sal","Zizzo",1,"Atlanta United","Zizzo, Sal","14","D","Atlanta United",129999.96,129999.96,0,1,0,0,0,0,0,0,0,0,0
+"Sam","Cronin",10,"Minnesota United","Cronin, Sam","6","M","Minnesota United",315000,339750,0,1,0,0,0,0,0,0,0,0,0
+"Sam","Hamilton",3,"Colorado Rapids","Hamilton, Sam","15","M","Colorado Rapids",68254.2,68254.2,0,0,1,0,0,0,0,0,0,0,0
+"Sam","Nicholson",3,"Colorado Rapids","Nicholson, Sam","15","M","Colorado Rapids",265008,311456,0,1,0,0,0,0,0,1,0,0,0
+"Sam","Vines",3,"Colorado Rapids","Vines, Sam","13","D","Colorado Rapids",60000,61250,1,0,0,0,0,0,0,0,0,1,0
+"Samuel","Armenteros",17,"Portland Timbers","Armenteros, Samuel","99","F","Portland Timbers",6e+05,608333.33,0,1,0,0,0,0,0,1,0,0,0
+"Samuel","Piette",11,"Montreal Impact","Piette, Samuel","6","M","Montreal Impact",120000,129234.37,0,1,0,0,0,0,0,0,0,0,0
+"Santiago","Mosquera",6,"Fc Dallas","Mosquera, Santiago","11","M","FC Dallas",450000,541400,0,1,0,0,0,0,0,1,0,0,1
+"Saphir","Taider",11,"Montreal Impact","Taider, Saphir","8","M","Montreal Impact",800000.04,800000.04,0,1,0,0,0,0,1,1,0,0,0
+"Scott","Caldwell",12,"New England Revolution","Caldwell, Scott","6","M","New England Revolution",129375,139375,0,0,1,0,0,0,0,0,0,1,0
+"Scott","Sutter",15,"Orlando City","Sutter, Scott","21","D","Orlando City SC",225000,225000,0,1,0,0,0,0,0,0,0,0,0
+"Sean","Davis",14,"New York Red-Bulls","Davis, Sean","27","M","New York Red Bulls",225000,261666.67,0,1,0,0,0,0,0,0,0,1,0
+"Sean","Franklin",23,"Vancouver Whitecaps","Franklin, Sean","3","D","Vancouver Whitecaps",150000,150000,0,0,1,0,0,0,0,0,0,0,0
+"Sean","Johnson",13,"New York City-Fc","Johnson, Sean","1","GK","New York City FC",250008,250008,0,1,0,0,0,0,0,0,0,0,0
+"Sebastian","Blanco",17,"Portland Timbers","Blanco, Sebastian","10","M/F","Portland Timbers",1300008,1375008,0,1,0,0,0,0,1,0,0,0,0
+"Sebastian","Giovinco",22,"Toronto Fc","Giovinco, Sebastian","10","F","Toronto FC",5600000,7115555.67,0,1,0,0,0,0,1,1,0,0,0
+"Sebastian","Lletget",8,"La Galaxy","Lletget, Sebastian","17","M","LA Galaxy",240000,252666.67,0,1,0,0,0,0,0,0,0,0,0
+"Sebastian","Saucedo",18,"Real Salt Lake","Saucedo, Sebastian","23","M","Real Salt Lake",1e+05,110500,0,1,0,0,0,0,0,0,0,0,0
+"Sebastien","Ibeagha",13,"New York City-Fc","Ibeagha, Sebastien","33","D","New York City FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Servando","Carrasco",8,"La Galaxy","Carrasco, Servando","14","M","LA Galaxy",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Seth","Sinovic",21,"Sporting Kansas City","Sinovic, Seth","15","D","Sporting Kansas City",150000,157666.67,0,1,0,0,0,0,0,0,0,0,0
+"Seyi","Adekoya",20,"Seattle Sounders","Adekoya, Seyi","12","F","Seattle Sounders FC",55650,55650,1,0,0,0,0,0,0,0,0,1,0
+"Shaft","Brewer",9,"Lafc","Brewer, Shaft","28","F","LAFC",54500.04,56166.71,1,0,0,0,0,0,0,0,0,1,0
+"Shamit","Shome",11,"Montreal Impact","Shome, Shamit","28","M","Montreal Impact",100000.08,128500.08,0,0,1,0,0,0,0,0,1,0,0
+"Shawn","Barry",18,"Real Salt Lake","Barry, Shawn","26","D","Real Salt Lake",131250,131250,0,1,0,0,0,0,0,0,0,0,0
+"Shea","Salinas",19,"San Jose Earthquakes","Salinas, Shea","6","M","San Jose Earthquakes",2e+05,2e+05,0,1,0,0,0,0,0,0,0,0,0
+"Shkelzen","Gashi",3,"Colorado Rapids","Gashi, Shkelzen","11","M/F","Colorado Rapids",1575000,1668750,0,1,0,0,0,0,1,1,0,0,0
+"Simon","Colyn",23,"Vancouver Whitecaps","Colyn, Simon","54","M","Vancouver Whitecaps",54499.92,60749.92,1,0,0,0,0,0,0,0,0,1,0
+"Spencer","Richey",23,"Vancouver Whitecaps","Richey, Spencer","18","GK","Vancouver Whitecaps",68254.2,68254.2,0,1,0,0,1,0,0,0,0,0,0
+"Stefan","Aigner",3,"Colorado Rapids","Aigner, Stefan","7","M","Colorado Rapids",800000.04,845885.46,0,1,0,0,0,0,0,0,0,0,0
+"Stefan","Cleveland",2,"Chicago Fire","Cleveland, Stefan","30","GK","Chicago Fire",55654.2,55654.2,1,0,0,0,0,0,0,0,0,0,0
+"Stefan","Frei",20,"Seattle Sounders","Frei, Stefan","24","GK","Seattle Sounders FC",275000,281250,0,1,0,0,0,0,0,0,0,0,0
+"Stefan","Marinovic",23,"Vancouver Whitecaps","Marinovic, Stefan","1","GK","Vancouver Whitecaps",150000,162562.5,0,1,0,0,0,0,0,1,0,0,0
+"Stefano","Bonomo",14,"New York Red-Bulls","Bonomo, Stefano","25","F","New York Red Bulls",67500,69921.57,0,1,0,0,0,0,0,0,0,0,0
+"Stefano","Pinho",15,"Orlando City","Pinho, Stefano","29","F","Orlando City SC",150000,183333.33,0,1,0,0,0,0,0,0,0,0,0
+"Steve","Clark",5,"Dc United","Clark, Steve","26","GK","DC United",120000,130000,0,1,0,0,0,0,0,0,0,0,0
+"Steven","Beitashour",9,"Lafc","Beitashour, Steven","3","D","LAFC",275000.04,298375.04,0,1,0,0,0,0,0,0,0,0,0
+"Taylor","Kemp",5,"Dc United","Kemp, Taylor","2","D","DC United",140000,140000,0,1,0,0,0,0,0,0,0,0,0
+"Taylor","Peay",18,"Real Salt Lake","Peay, Taylor","21","D","Real Salt Lake",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Teal","Bunbury",12,"New England Revolution","Bunbury, Teal","10","F","New England Revolution",215000.04,260000.04,0,1,0,0,0,0,0,0,0,0,0
+"Tesho","Akindele",6,"Fc Dallas","Akindele, Tesho","13","F","FC Dallas",105000,122500,0,1,0,0,0,0,0,0,0,0,0
+"Thomas","McNamara",13,"New York City-Fc","McNamara, Thomas","15","M","New York City FC",199999.92,199999.92,0,1,0,0,0,0,0,0,0,0,0
+"Tim","Howard",3,"Colorado Rapids","Howard, Tim","1","GK","Colorado Rapids",2e+06,2475000,0,1,0,0,0,0,1,0,0,0,0
+"Tim","Melia",21,"Sporting Kansas City","Melia, Tim","29","GK","Sporting Kansas City",3e+05,316666.67,0,1,0,0,0,0,0,0,0,0,0
+"Tim","Parker",14,"New York Red-Bulls","Parker, Tim","26","D","New York Red Bulls",97185,115935,0,1,0,0,0,0,0,0,0,0,0
+"Tomas","Hilliard-Arce",8,"La Galaxy","Hilliard-Arce, Tomas","20","D","LA Galaxy",90000,113125,0,0,1,0,0,0,0,0,0,0,0
+"Tomas","Martinez",7,"Houston Dynamo","Martinez, Tomas","10","F","Houston Dynamo",305004,487929,0,1,0,0,0,0,0,1,0,0,1
+"Tommy","Redding",14,"New York Red-Bulls","Redding, Tommy","21","D","New York Red Bulls",125000,147500,0,1,0,0,0,0,0,0,0,1,0
+"Tommy","Smith",3,"Colorado Rapids","Smith, Tommy","5","D","Colorado Rapids",6e+05,639999.96,0,1,0,0,0,0,0,1,0,0,0
+"Tommy","Thompson",19,"San Jose Earthquakes","Thompson, Tommy","22","M","San Jose Earthquakes",165000,170000,0,0,1,0,0,0,0,0,0,1,0
+"Tony","Alfaro",20,"Seattle Sounders","Alfaro, Tony","15","D","Seattle Sounders FC",67500,67500,0,0,1,0,0,0,0,0,0,0,0
+"Tony","Beltran",18,"Real Salt Lake","Beltran, Tony","2","D","Real Salt Lake",230000,240950,0,1,0,0,0,0,0,0,0,0,0
+"Tony","Rocha",15,"Orlando City","Rocha, Tony","8","M","Orlando City SC",68901.84,68901.84,0,0,1,0,0,0,0,0,0,0,0
+"Tony","Tchani",2,"Chicago Fire","Tchani, Tony","12","M","Chicago Fire",320000,353333.33,0,1,0,0,0,0,0,0,0,0,0
+"Tosaint","Ricketts",22,"Toronto Fc","Ricketts, Tosaint","87","F","Toronto FC",190008,203174.67,0,1,0,0,0,0,0,0,0,0,0
+"Travis","Worra",5,"Dc United","Worra, Travis","48","GK","DC United",68906.25,68906.25,0,0,1,0,0,0,0,0,0,0,0
+"Tristan","Blackmon",9,"Lafc","Blackmon, Tristan","27","F","LAFC",67500,70233.92,0,0,1,0,0,0,0,0,0,0,0
+"Tyler","Adams",14,"New York Red-Bulls","Adams, Tyler","4","M","New York Red Bulls",107500,153541.67,0,0,1,0,0,0,0,0,0,1,0
+"Tyler","Miller",9,"Lafc","Miller, Tyler","1","GK","LAFC",68915.07,68915.07,0,1,0,0,0,0,0,0,0,0,0
+"Tyrone","Mears",10,"Minnesota United","Mears, Tyrone","4","D","Minnesota United",194256,194256,0,1,0,0,0,0,0,0,0,0,0
+"Ulises","Segura",5,"Dc United","Segura, Ulises","8","M","DC United",136999.92,136999.92,0,1,0,0,0,0,0,1,0,0,0
+"Victor","Arboleda",17,"Portland Timbers","Arboleda, Victor","19","F/M","Portland Timbers",75000,75000,0,1,0,0,0,0,0,1,0,0,0
+"Victor","Cabrera",11,"Montreal Impact","Cabrera, Victor","2","D","Montreal Impact",270000,270000,0,1,0,0,0,0,0,1,0,0,0
+"Victor","Rodriguez",20,"Seattle Sounders","Rodriguez, Victor","8","M","Seattle Sounders FC",999999.96,1087499.96,0,1,0,0,0,0,0,1,0,0,0
+"Victor","Ulloa",6,"Fc Dallas","Ulloa, Victor","8","M","FC Dallas",180000,182500,0,1,0,0,0,0,0,0,0,1,0
+"Victor","Vazquez",22,"Toronto Fc","Vazquez, Victor","7","M","Toronto FC",1365000,1500000,0,1,0,0,0,0,0,1,0,0,0
+"Vincent","Bezecourt",14,"New York Red-Bulls","Bezecourt, Vincent","88","M","New York Red Bulls",67500,69921.4,0,0,1,0,0,0,0,1,0,0,0
+"Vytautas","Andriuskevicius",17,"Portland Timbers","Andriuskevicius, Vytautas","5","D","Portland Timbers",250000,271875,0,1,0,0,0,0,0,0,0,0,0
+"Walker","Zimmerman",9,"Lafc","Zimmerman, Walker","25","D","LAFC",235000,235000,0,1,0,0,0,0,0,0,0,0,0
+"Wan","Kuzain",21,"Sporting Kansas City","Kuzain, Wan","75","M","Sporting Kansas City",67500,67500,0,0,1,0,0,0,0,0,0,1,0
+"Warren","Creavalle",16,"Philadelphia Union","Creavalle, Warren","2","M","Philadelphia Union",140000,153000,0,1,0,0,0,0,0,0,0,0,0
+"Waylon","Francis",20,"Seattle Sounders","Francis, Waylon","90","D","Seattle Sounders FC",165000,171666.67,0,1,0,0,0,0,0,0,0,0,0
+"Wil","Trapp",4,"Columbus Crew Sc","Trapp, Wil","6","M","Columbus Crew",500004,550004,0,1,0,0,0,0,0,0,0,1,0
+"Wilfried","Zahibo",12,"New England Revolution","Zahibo, Wilfried","23","M","New England Revolution",474000,544000,0,1,0,0,0,0,0,1,0,0,0
+"Will","Bruin",20,"Seattle Sounders","Bruin, Will","17","F","Seattle Sounders FC",350000,351666.67,0,1,0,0,0,0,0,0,0,0,0
+"Will","Johnson",15,"Orlando City","Johnson, Will","4","M","Orlando City SC",434004,470004,0,1,0,0,0,0,0,0,0,0,0
+"Wyatt","Omsberg",10,"Minnesota United","Omsberg, Wyatt","22","D","Minnesota United",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Yamil","Asad",5,"Dc United","Asad, Yamil","22","M/F","DC United",436363.56,520522.65,0,1,0,0,0,0,0,1,0,0,0
+"Yangel","Herrera",13,"New York City-Fc","Herrera, Yangel","30","M","New York City FC",200000.04,200000.04,0,1,0,0,0,0,0,1,0,0,0
+"Yannick","Boli",3,"Colorado Rapids","Boli, Yannick","9","F","Colorado Rapids",774999.96,907499.96,0,1,0,0,0,0,0,1,0,0,0
+"Yeferson","Quintana",19,"San Jose Earthquakes","Quintana, Yeferson","30","D","San Jose Earthquakes",3e+05,341250,0,1,0,0,0,0,0,1,0,0,0
+"Yohan","Croizet",21,"Sporting Kansas City","Croizet, Yohan","10","M/F","Sporting Kansas City",650004,680004,0,1,0,0,0,0,1,1,0,0,0
+"Yordy","Reyna",23,"Vancouver Whitecaps","Reyna, Yordy","29","M/F","Vancouver Whitecaps",440000.04,533700.04,0,1,0,0,0,0,0,1,0,0,0
+"Zac","MacMath",3,"Colorado Rapids","MacMath, Zac","18","GK","Colorado Rapids",170000,170000,0,1,0,0,0,0,0,0,0,0,0
+"Zachary","Herivaux",12,"New England Revolution","Herivaux, Zachary","21","M","New England Revolution",68906.25,83906.25,0,0,1,0,0,0,0,0,0,1,0
+"Zack","Steffen",4,"Columbus Crew Sc","Steffen, Zack","23","GK","Columbus Crew",145000,145000,0,1,0,0,0,0,0,0,0,0,0
+"Zakaria","Diallo",11,"Montreal Impact","Diallo, Zakaria","5","D","Montreal Impact",299250,343250,0,1,0,1,0,0,0,1,0,0,0
+"Zarek","Valentin",17,"Portland Timbers","Valentin, Zarek","16","D","Portland Timbers",130000,130000,0,1,0,0,0,0,0,0,0,0,0
+"Zoltan","Stieber",5,"Dc United","Stieber, Zoltan","18","M/F","DC United",999999.96,999999.96,0,1,0,0,0,0,0,1,0,0,0
+"Ager","Aketxe",22,"Toronto Fc","Aketxe, Ager","8","M","Toronto FC",1190000.04,1295000.04,0,1,0,0,0,0,0,1,0,0,0
+"Antonio","Delamea Mlinar",12,"New England Revolution","Delamea Mlinar, Antonio","19","D","New England Revolution",400008,400008,0,1,0,0,0,0,0,0,0,0,0
+"David","Norman Jr.",23,"Vancouver Whitecaps","Norman Jr., David","24","M","Vancouver Whitecaps",54500.04,55500.04,1,0,0,0,0,0,0,0,0,1,0
+"Diego","Rubio",21,"Sporting Kansas City","Rubio, Diego","11","F","Sporting Kansas City",250000,266875,0,1,0,0,0,0,0,0,0,0,0
+"Earl","Edwards Jr.",15,"Orlando City","Edwards Jr., Earl","36","GK","Orlando City SC",68250,68250,0,0,1,0,0,0,0,0,0,0,0
+"Gregory","van der Wiel",22,"Toronto Fc","van der Wiel, Gregory","9","D","Toronto FC",800000.04,835000.04,0,1,0,0,0,0,0,1,0,0,0
+"Ismael","Tajouri-Shradi",13,"New York City-Fc","Tajouri-Shradi, Ismael","29","F","New York City FC",320000.04,350500.04,0,1,0,0,0,0,0,1,0,0,0
+"Kim","Kee-hee",20,"Seattle Sounders","Kee-hee, Kim","20","D","Seattle Sounders FC",500004,632004,0,1,0,0,0,0,0,1,0,0,0
+"Leandro","Gonzalez Pirez",1,"Atlanta United","Gonzalez Pirez, Leandro","5","D","Atlanta United",650004,685004,0,1,0,0,0,0,0,1,0,0,0
+"Marcel","De Jong",23,"Vancouver Whitecaps","De Jong, Marcel","17","D/M","Vancouver Whitecaps",160000,160000,0,1,0,0,0,0,0,0,0,0,0
+"Steve","Birnbaum",5,"Dc United","Birnbaum, Steve","15","D","DC United",120000,130000,0,1,0,0,0,0,0,0,0,0,0
+"Sunday","Stephen",18,"Real Salt Lake","Stephen, Sunday","8","M","Real Salt Lake",275000,288000,0,1,0,0,0,0,0,0,0,0,0
+"Zlatan","Ibrahimović",8,"La Galaxy","Ibrahimović, Zlatan","9","F","LA Galaxy",1500000,1500000,0,1,0,0,0,0,0,1,0,0,0
+"Mo","Adams",2,"Chicago Fire","Adams, Mo","19","M","Chicago Fire",90000,125000,0,0,1,0,0,0,0,1,0,0,0
+"Micheal","Azira",3,"Colorado Rapids","Azira, Micheal","22","M","Colorado Rapids",125000,131625,0,1,0,0,0,0,0,0,0,0,0
+"DeMarcus","Beasley",7,"Houston Dynamo","Beasley, DeMarcus","7","D","Houston Dynamo",275004,275004,0,1,0,0,0,0,0,0,0,0,0
+"Juan David","Cabezas",7,"Houston Dynamo","Cabezas, Juan David","5","M","Houston Dynamo",255156,279156,0,1,0,0,0,0,0,1,0,0,0
+"Luis","Caicedo",12,"New England Revolution","Caicedo, Luis","27","M","New England Revolution",3e+05,3e+05,0,1,0,0,0,0,0,1,0,0,0
+"Reginald","Cannon",6,"Fc Dallas","Cannon, Reginald","2","D","FC Dallas",67500,67500,1,0,0,0,0,0,0,0,0,1,0
+"Aidan","Daniels",22,"Toronto Fc","Daniels, Aidan","55","M","Toronto FC",54500.04,54500.04,1,0,0,0,0,0,0,0,0,0,0
+"Jose","Hernandez",1,"Atlanta United","Hernandez, Jose","13","D","Atlanta United",120000,120000,0,1,0,0,1,0,0,1,0,0,0
+"Jose","Hernandez",18,"Real Salt Lake","Hernandez, Jose","19","M","Real Salt Lake",67500,70875,1,0,0,0,0,0,0,1,0,1,0
+"Jon","Kempin",4,"Columbus Crew Sc","Kempin, Jon","24","GK","Columbus Crew",80256,80256,0,0,1,0,0,0,0,0,0,0,0
+"Richmond","Laryea",15,"Orlando City","Laryea, Richmond","6","M","Orlando City SC",135000,164000,0,0,1,0,0,0,0,1,1,0,0
+"Cameron","Lindley",15,"Orlando City","Lindley, Cameron","15","M","Orlando City SC",80000.04,88906.29,1,0,0,0,0,0,0,0,0,1,0
+"Jake","Nerwinski",23,"Vancouver Whitecaps","Nerwinski, Jake","28","D","Vancouver Whitecaps",67500,71625,0,0,1,0,0,0,0,0,0,0,0
+"Dominic","Oduro",11,"Montreal Impact","Oduro, Dominic","7","F","Montreal Impact",330000,330000,0,1,0,0,0,0,0,0,0,0,0
+"Fabrice","Picault",16,"Philadelphia Union","Picault, Fabrice","9","M","Philadelphia Union",135000,148666.67,0,1,0,0,0,0,0,0,0,0,0
+"Robert","Shuttleworth",10,"Minnesota United","Shuttleworth, Robert","33","GK","Minnesota United",165000,181875,0,1,0,0,0,0,0,0,0,0,0
+"Josh","Williams",4,"Columbus Crew Sc","Williams, Josh","3","D","Columbus Crew",200000.04,200000.04,0,1,0,0,0,0,0,0,0,0,0
+"Danny","Wilson",3,"Colorado Rapids","Wilson, Danny","4","D","Colorado Rapids",500000.04,540000,0,1,0,0,0,0,0,1,0,0,0
+"Josh","Yaro",16,"Philadelphia Union","Yaro, Josh","15","D","Philadelphia Union",140000,224000,0,0,1,0,0,0,0,0,1,0,0
+"Yoshi","Yotun",15,"Orlando City","Yotun, Yoshi","19","M","Orlando City SC",549996,599996,0,1,0,0,0,0,0,1,0,0,0
+"Alejandro 'Kaku'","Gamarra",14,"New York Red-Bulls","Gamarra, Alejandro","10","M","New York Red Bulls",709090.8,709090.8,0,1,0,0,0,0,1,1,0,0,0
+"Artur","de Lima",4,"Columbus Crew Sc","Artur","7","M","Columbus Crew",210000,210000,0,1,0,0,0,0,0,1,0,0,0
+"Fabinho","Alves Macedo",16,"Philadelphia Union","Fabinho","33","D","Philadelphia Union",153000,153000,0,1,0,0,0,0,0,0,0,0,0
+"Ibson","da Silva",10,"Minnesota United","Ibson","7","M","Minnesota United",3e+05,317083.33,0,1,0,0,0,0,0,0,0,0,0
+"Ilson","Dias",16,"Philadelphia Union","Ilsinho","25","M","Philadelphia Union",3e+05,327000,0,1,0,0,0,0,0,0,0,0,0
+"Leonardo","Da Silva",7,"Houston Dynamo","Leonardo","22","D","Houston Dynamo",157504.5,165171.17,0,1,0,0,0,0,0,0,0,0,0
+"Luiz","Fernando",10,"Minnesota United","Maximiano","31","M","Minnesota United",275000.04,314166.71,0,1,0,0,0,0,0,1,0,0,0
+"Mohammed","El-Munir",15,"Orlando City","El-Munir, Mohamed","13","D","Orlando City SC",174999.96,192833.29,0,1,0,0,0,0,0,1,0,0,0
+"Nana","Boateng",3,"Colorado Rapids","Boateng, Bismark","21","M","Colorado Rapids",320004,361250,0,1,0,0,0,0,0,0,0,0,0
+"Victor","Giro",15,"Orlando City","PC","94","D","Orlando City SC",90000,95312.5,0,1,0,0,0,0,0,1,0,0,0
+"Hassan","Fouapon",14,"New York Red-Bulls","Ndam, Hassan","47","D","New York Red Bulls",54504,54504,1,0,0,0,1,0,0,1,0,0,0
+"Valeri 'Vako'","Qazaishvili",19,"San Jose Earthquakes","Vako","11","M","San Jose Earthquakes",1325004,1454042.36,0,1,0,0,0,0,1,1,0,0,0
+"Oscar Boniek","Garcia",7,"Houston Dynamo","Garcia, Boniek","27","M","Houston Dynamo",150000,165000,0,1,0,0,0,0,0,0,0,0,0
